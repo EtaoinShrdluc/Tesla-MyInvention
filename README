@@ -1,10 +1,13 @@
-# My Inventions, Nikola Tesla's Autobiography
+My Inventions, Nikola Tesla's Autobiography
+=======================================================
 
-<i>My Inventions</i> originally appeared in six series of the magazine Electronical Experimenter in 1919, written by Nikola Tesla when he was 63 years old. 
+*My Inventions* originally appeared in six series of the magazine Electronical Experimenter in 1919, written by Nikola Tesla when he was 63 years old. 
 
 
-This repository propose an extended and edited version of the nearly unabridged electronic text available by <i>Twenty-First Century Books</i><sup>2</sup>. It has been enhanced with the 16 original illustrations --with legends-- of the Electronical Experimenter edition, as well as the 6 forewords signed by the quondam Editor H. Gernsback.
+This repository propose an extended and edited version of the nearly unabridged electronic text available by *[Twenty-First Century Books](http://www.tfcbooks.com/special/my_inventions_index.htm)*. It has been enhanced with the 16 original illustrations --with legends-- of the Electronical Experimenter edition, as well as the 6 forewords signed by the quondam Editor H. Gernsback.
 
-## Formats
-- Latex
-- Epub
+Formats
+-----------
+
+* Latex
+* Epub
