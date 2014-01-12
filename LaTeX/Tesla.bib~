@@ -1,0 +1,56 @@
+@comment{x-kbibtex-personnameformatting=<%l><, %f><, %s>}
+
+@article{TES1,
+	author = {Tesla, Nikola},
+	journal = {Electrical Experimenter, Sciences and Inventions},
+	month = feb,
+	pages = {696-7,743-7},
+	title = {{My Inventions, Part One - My Early Life}},
+	year = {1919}
+}
+
+@article{TES2,
+	author = {Tesla, Nikola},
+	journal = {Electrical Experimenter, Sciences and Inventions},
+	month = mar,
+	pages = {776-7,839-41,843},
+	title = {{My Inventions, Part Two - My First Efforts in Invention}},
+	year = {1919}
+}
+
+@article{TES3,
+	author = {Tesla, Nikola},
+	journal = {Electrical Experimenter, Sciences and Inventions},
+	month = feb,
+	pages = {864-5,905,907,909},
+	title = {{My Inventions, Part Three - My Later Endeavors}},
+	year = {1919}
+}
+
+@article{TES1,
+	author = {Tesla, Nikola},
+	journal = {Electrical Experimenter, Sciences and Inventions},
+	month = feb,
+	pages = {696--7,743--7},
+	title = {{My Inventions, Part One - My Early Life}},
+	year = {1919}
+}
+
+@article{TES1,
+	author = {Tesla, Nikola},
+	journal = {Electrical Experimenter, Sciences and Inventions},
+	month = feb,
+	pages = {696--7,743--7},
+	title = {{My Inventions, Part One - My Early Life}},
+	year = {1919}
+}
+
+@article{TES1,
+	author = {Tesla, Nikola},
+	journal = {Electrical Experimenter, Sciences and Inventions},
+	month = feb,
+	pages = {696--7,743--7},
+	title = {{My Inventions, Part One - My Early Life}},
+	year = {1919}
+}
+

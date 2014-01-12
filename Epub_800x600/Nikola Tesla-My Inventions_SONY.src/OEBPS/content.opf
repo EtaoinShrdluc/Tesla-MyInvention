@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:a2873a32-d106-4cd1-818c-2e07f2d91f6c</dc:identifier>
+    <dc:title>My Inventions, Nikola Tesla's Autobiography</dc:title>
+    <dc:creator opf:role="aut">Nikola Tesla</dc:creator>
+    <dc:language>en-US</dc:language>
+    <dc:publisher>Etaoin Shrdluc</dc:publisher>
+    <dc:date opf:event="modification">2014-01-12</dc:date>
+    <dc:description>&lt;div&gt;&lt;p&gt;&lt;em&gt;Nikola Tesla&lt;/em&gt; was a Serbian American inventor, electrical engineer, mechanical engineer, physicist, and futurist best known for his contributions to the design of the modern alternating current (AC) electricity supply system. Tesla is also known for his high-voltage, high-frequency power experiments in New York and Colorado Springs which included patented devices and theoretical work used in the invention of radio communication, for his X-ray experiments, and for his ill-fated attempt at intercontinental wireless transmission in his unfinished Wardenclyffe Tower project.&lt;/p&gt;&lt;p&gt; &lt;em&gt;My Inventions&lt;/em&gt; is Tesla's Autobiography, written at the age of 63 and published in six parts in the journal Electrical Experimenter.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:subject>Biography Memoir</dc:subject>
+    <dc:subject>Engineering</dc:subject>
+    <dc:subject>Physics</dc:subject>
+    <dc:subject>Electrogmagnetism</dc:subject>
+    <meta content="0.7.3" name="Sigil version" />
+    <meta name="cover" content="cover.jpeg" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Images/cover.jpeg" id="cover.jpeg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Fonts/Linux-Libertine-Display-Capitals.ttf" id="Linux-Libertine-Display-Capitals.ttf" media-type="application/x-font-ttf" />
+    <item href="Images/House.png" id="House.png" media-type="image/png" />
+    <item href="Images/IndMotor.png" id="IndMotor.png" media-type="image/png" />
+    <item href="Images/MechA.png" id="MechA.png" media-type="image/png" />
+    <item href="Images/OscillationTransformer.png" id="OscillationTransformer.png" media-type="image/png" />
+    <item href="Images/Sparks.png" id="Sparks.png" media-type="image/png" />
+    <item href="Images/TelAer.png" id="TelAer.png" media-type="image/png" />
+    <item href="Images/TelBoat.png" id="TelBoat.png" media-type="image/png" />
+    <item href="Images/Tesla-23.png" id="Tesla-23.png" media-type="image/png" />
+    <item href="Images/Tesla-29.png" id="Tesla-29.png" media-type="image/png" />
+    <item href="Images/Tesla-39.png" id="Tesla-39.png" media-type="image/png" />
+    <item href="Images/Tesla-60.png" id="Tesla-60.png" media-type="image/png" />
+    <item href="Images/Tesla-bulbe.png" id="Tesla-bulbe.png" media-type="image/png" />
+    <item href="Images/Tesla-Younger.png" id="Tesla-Younger.png" media-type="image/png" />
+    <item href="Images/Tower.png" id="Tower.png" media-type="image/png" />
+    <item href="Images/TowerIsland.png" id="TowerIsland.png" media-type="image/png" />
+    <item href="Styles/page_styles.css" id="page_styles.css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css" />
+    <item href="Text/Contents.xhtml" id="Contents.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Editors.xhtml" id="Editors.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter1.xhtml" id="Chapter1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BookInfos.xhtml" id="BookInfos.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter2.xhtml" id="Chapter2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter3.xhtml" id="Chapter3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter4.xhtml" id="Chapter4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter5.xhtml" id="Chapter5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter6.xhtml" id="Chapter6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Fonts/LinLibertine_RBI.ttf" id="LinLibertine_RBI.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/LinLibertine_RI.ttf" id="LinLibertine_RI.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/LinLibertine_RB.ttf" id="LinLibertine_RB.ttf" media-type="application/x-font-ttf" />
+    <item href="Text/Colophon.xhtml" id="Colophon.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="BookInfos.xhtml" />
+    <itemref idref="Contents.xhtml" />
+    <itemref idref="Editors.xhtml" />
+    <itemref idref="Chapter1.xhtml" />
+    <itemref idref="Chapter2.xhtml" />
+    <itemref idref="Chapter3.xhtml" />
+    <itemref idref="Chapter4.xhtml" />
+    <itemref idref="Chapter5.xhtml" />
+    <itemref idref="Chapter6.xhtml" />
+    <itemref idref="Colophon.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

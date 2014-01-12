@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:a2873a32-d106-4cd1-818c-2e07f2d91f6c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>My Inventions, Nikola Tesla's Autobiography</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="Text/Contents.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>My Early Life</text>
+      </navLabel>
+      <content src="Text/Chapter1.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Nikola Tesla The Man By H. Gernsback</text>
+        </navLabel>
+        <content src="Text/Chapter1.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>My First Efforts At Invention</text>
+      </navLabel>
+      <content src="Text/Chapter2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>My Later Endeavors</text>
+      </navLabel>
+      <content src="Text/Chapter3.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>What is the induction motor?</text>
+        </navLabel>
+        <content src="Text/Chapter3.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>The Discovery of the Tesla Coil and Transformer</text>
+      </navLabel>
+      <content src="Text/Chapter4.xhtml"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>The First Induction Motor is Built</text>
+        </navLabel>
+        <content src="Text/Chapter4.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>German ``Efficiency"</text>
+        </navLabel>
+        <content src="Text/Chapter4.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Tesla in America</text>
+        </navLabel>
+        <content src="Text/Chapter4.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Tesla Meets Edison</text>
+        </navLabel>
+        <content src="Text/Chapter4.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>The Invention of the Tesla Coil</text>
+        </navLabel>
+        <content src="Text/Chapter4.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>The Magnifying Transmitter</text>
+      </navLabel>
+      <content src="Text/Chapter5.xhtml"/>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Scrapping The World's Engines</text>
+        </navLabel>
+        <content src="Text/Chapter5.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>``Aladdin's Lamp"</text>
+        </navLabel>
+        <content src="Text/Chapter5.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>In Faraday's Chair</text>
+        </navLabel>
+        <content src="Text/Chapter5.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Nature's Trigger</text>
+        </navLabel>
+        <content src="Text/Chapter5.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Four Million Volts</text>
+        </navLabel>
+        <content src="Text/Chapter5.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>The Magnifying Transmitter</text>
+        </navLabel>
+        <content src="Text/Chapter5.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>100 Millions Volts Possible</text>
+        </navLabel>
+        <content src="Text/Chapter5.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>The Art of Telautomatics</text>
+      </navLabel>
+      <content src="Text/Chapter6.xhtml"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>How Tesla's Mind Recuperates</text>
+        </navLabel>
+        <content src="Text/Chapter6.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Tesla Rapes "Static`` Men Vigorously</text>
+        </navLabel>
+        <content src="Text/Chapter6.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>The Remedy for Static</text>
+        </navLabel>
+        <content src="Text/Chapter6.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Radio Government Control Not Wanted</text>
+        </navLabel>
+        <content src="Text/Chapter6.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>America First</text>
+        </navLabel>
+        <content src="Text/Chapter6.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>The Road To Permanent Peace</text>
+        </navLabel>
+        <content src="Text/Chapter6.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>The Mechanistic Theory Of Life</text>
+        </navLabel>
+        <content src="Text/Chapter6.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Lack of Observation a Form of Ignorance</text>
+        </navLabel>
+        <content src="Text/Chapter6.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Psychic Phenomena in the Manufacture of Flivvers</text>
+        </navLabel>
+        <content src="Text/Chapter6.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Confuting Spiritism</text>
+        </navLabel>
+        <content src="Text/Chapter6.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Tesla's Astounding Discovery</text>
+        </navLabel>
+        <content src="Text/Chapter6.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Dr. Tesla's First Automaton</text>
+        </navLabel>
+        <content src="Text/Chapter6.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Telautomatics of the Future</text>
+        </navLabel>
+        <content src="Text/Chapter6.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

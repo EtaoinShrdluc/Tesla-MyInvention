@@ -1,0 +1,5 @@
+Image size:
+- 600 × 800 for PRS-T2
+- 96 dpi
+Fontes:
+- 7pt for all

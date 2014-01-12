@@ -1,0 +1,78 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Editor's Preface}{v}{Doc-Start}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{My Early Life}{1}{Doc-Start}
+\defcounter {refsection}{0}\relax 
+\relax \fontsize {12}{14.5}\selectfont \abovedisplayskip 12\p@ plus3\p@ minus7\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{My First Efforts At Invention}{11}{Doc-Start}
+\defcounter {refsection}{0}\relax 
+\relax \fontsize {12}{14.5}\selectfont \abovedisplayskip 12\p@ plus3\p@ minus7\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{My Later Endeavors}{21}{Doc-Start}
+\defcounter {refsection}{0}\relax 
+\relax \fontsize {12}{14.5}\selectfont \abovedisplayskip 12\p@ plus3\p@ minus7\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{The Discovery of the Tesla Coil and Transformer}{31}{poemline.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The First Induction Motor is Built}{33}{section*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{German ``Efficiency"}{34}{section*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Tesla in America}{36}{section*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Tesla Meets Edison}{36}{section*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The Invention of the Tesla Coil}{38}{section*.1}
+\defcounter {refsection}{0}\relax 
+\relax \fontsize {12}{14.5}\selectfont \abovedisplayskip 12\p@ plus3\p@ minus7\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{The Magnifying Transmitter}{41}{section*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Scrapping The World's Engines}{42}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{``Aladdin's Lamp"}{44}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{In Faraday's Chair}{44}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Nature's Trigger}{45}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Four Million Volts}{45}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The Magnifying Transmitter}{46}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{100 Millions Volts Possible}{46}{section*.2}
+\defcounter {refsection}{0}\relax 
+\relax \fontsize {12}{14.5}\selectfont \abovedisplayskip 12\p@ plus3\p@ minus7\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{The Art of Telautomatics}{53}{Item.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{How Tesla's Mind Recuperates}{53}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Tesla Rapes "Static`` Men Vigorously}{56}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The Remedy for Static}{57}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Radio Government Control Not Wanted}{58}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{America First}{60}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The Road To Permanent Peace}{61}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The Mechanistic Theory Of Life}{61}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Lack of Observation a Form of Ignorance}{62}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Psychic Phenomena in the Manufacture of Flivvers}{63}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Confuting Spiritism}{63}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Tesla's Astounding Discovery}{64}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Dr. Tesla's First Automaton}{66}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Telautomatics of the Future}{67}{section*.3}
+\contentsfinish 
