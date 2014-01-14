@@ -1,7 +1,5 @@
-<img src="blob/master/Epub_800x600/cover.jpeg?raw=true" width=30% style="float:right;padding:1em;">
-
 # My Inventions, Nikola Tesla's Autobiography
-
+<img src="https://raw.github.com/EtaoinShrdluc/Tesla-MyInvention/master/Epub_800x600/cover.jpeg?raw=true" width=20% style="float:right;padding:1em;">
 
 *My Inventions* originally appeared in six series of the magazine Electronical Experimenter in 1919, written by Nikola Tesla when he was 63 years old. 
 
