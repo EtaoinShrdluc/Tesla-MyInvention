@@ -1,3 +1,5 @@
+<img src="blob/master/Epub_800x600/cover.jpeg?raw=true" width=30% style="float:right;padding:1em;">
+
 # My Inventions, Nikola Tesla's Autobiography
 
 
