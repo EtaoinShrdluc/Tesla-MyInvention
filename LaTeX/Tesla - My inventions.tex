@@ -14,16 +14,12 @@
 
 
 %------------------ Mise en page ------------------
-\usepackage{packages/MF-style_1}
-\usepackage[some,top]{background}%marques de notes, faire un header pour style de page, ne pas depasser 1/4 hauteur de page au total
-\SetBgContents{%
-	\rule{.2cm}{.3cm}
-}
-\SetBgColor{black}
+\usepackage{packages/MI-style}
 \usepackage{adjustbox}
 %------------------ Graphics ------------------
 \usepackage{wrapfig}
 \usepackage{graphicx}
+\usepackage{pdfpages}
 
 % \usepackage{graphicx,subfig}
 % \usepackage{tikz}
@@ -32,14 +28,6 @@
 \captionsetup{textfont={small,it},format=plain,labelformat=empty,labelsep=none,justification=centerlast}
 
 
-\usepackage{color}
-\definecolor{gris1}{gray}{0.1}
-\definecolor{gris2}{gray}{0.3}
-\definecolor{gris3}{gray}{0.5}
-\definecolor{gris4}{gray}{0.7}
-\definecolor{gris5}{gray}{0.9}
-\usepackage{packages/picins}
-
 %%---------Langue---------
 \usepackage[english]{babel}
 \usepackage{makeidx}
@@ -47,22 +35,21 @@
 %Avec \makeindex{nom} index des philosophes et index des citations
 \usepackage{xspace}
 \usepackage[protrusion=true,expansion=true,kerning, spacing]{microtype} %fine typo avec pdflatex, a règlé les erreures de boites horizontales canoniques
-\usepackage{lipsum}
 
 %-------Biblio version biblatex--------------
 \usepackage[%
 bibencoding=latin1,%
-bibstyle=alphabetic,%
-citestyle=alphabetic,%
-sorting=nyt,%
+%bibstyle=alphabetic,%
+%citestyle=alphabetic,%
+sorting=nty,%
 language=english,%
 isbn=false,%
 doi=false,%
 %eprint=true,%pour citation arxiv
 %note=false,%
-url=false
+url=false,
+style=reading
 ]{biblatex}
-%\addbibresource{Galois.bib}%Pour nouvelles version de biblatex
 \bibliography{Tesla}
 
 
@@ -75,61 +62,13 @@ url=false
 \begin{document}
 	\nocite{*}
 	\frontmatter
-%%------------------Title ------------------
+%%------------------Cover------------------
 \thispagestyle{empty}
-% Original Title Template Peter Wilson	
-{ 
-\centering 
-\vspace*{\baselineskip}
+\includepdf{cover}
 
-%Horizontal lines
-\rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt} 
-\rule{\textwidth}{0.4pt}\\[\baselineskip] 
-
-\vspace*{1cm}
-% Title
-{\HUGE 	\bfseries
-	MY INVENTIONS\\[\baselineskip] 
-}
-
-\vspace*{1cm}
-
-%Horizontal lines
-\rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt} 
-\rule{\textwidth}{1.6pt}\\[\baselineskip] 
-
-\vspace*{.2cm}
-
-\scshape 
-% Tagline(s) or further description
-{\Large
-	By\\ \textsc{Nikola Tesla} \\
-} 
-\vspace*{1cm}
-
-With\\ Original Illustrations\\ and\\ 
-Forewords of H. Gernsback\\[\baselineskip]
-
-
-\vspace*{4\baselineskip}
-
-% Editor list
-\emph{Edited by} \\
-{\large Etaoin Shrdluc\par} 
-
-
-\vfill % Whitespace between editor names and publisher logo
-
-
-{\scshape 2014} \\[0.3\baselineskip] % Year published
-{\large THE PUBLISHER}\par % Publisher
-\vspace{1.5cm}
-}
-
-	\newpage
 %%------------------Copyright ------------------	
-	\thispagestyle{empty}
-	{\vspace*{\stretch{1}}
+\thispagestyle{empty}
+{\vspace*{\stretch{1}}
 	\centering\normalsize
 	
 	\includegraphics[width=1cm]{cc-large.png}\hspace{1em}
@@ -146,17 +85,56 @@ Forewords of H. Gernsback\\[\baselineskip]
 	
 	{\small First published in the \textsc{Electrical Experimenter} magazine 1919.} 
 	\par	
-	}
-	
+}
+
 
 \newpage
-\clearforchapter	
+\clearforchapter
+	
+%%------------------Title Page------------------
+\thispagestyle{empty}
+{ 
+\centering 
+\vspace*{2cm}
+% Title
+{\HUGE 	\bfseries
+	MY INVENTIONS\\[\baselineskip] 
+}
 
+\vspace*{.3cm}
+
+\scshape 
+{\Large
+	By\\ \textsc{Nikola Tesla} \\
+} 
+\vspace*{1cm}
+
+With\\ Original Illustrations\\ and\\ 
+Forewords of H. Gernsback\\[\baselineskip]
+
+
+\vspace*{4\baselineskip}
+
+% Editor
+\emph{Edited by} \\
+{\large Etaoin Shrdluc\par} 
+
+\vfill %
+
+{\scshape 2014} \\[0.3\baselineskip] 
+{\large THE PUBLISHER}\par 
+\vspace{1.5cm}
+}
+
+\newpage
+\clearforchapter		
+
+%%------------------TOC ------------------
 \tableofcontents*
 \newpage
 \clearforchapter	
 
-%%------------------Editor Preface ------------------
+%%------------------Editor's Preface ------------------
 \thispagestyle{empty}
 \markboth{Editor's Preface}{}
 \markright{}
@@ -2441,69 +2419,16 @@ instant's delay and with all the power and resources of the nation.
 	
 \backmatter
 %Biblio,Index, endnotes etc
+%------------ Colophon ----------
 
+\newpage
+\thispagestyle{empty}
+\vspace*{\stretch{1}}
+\centering
+\textbf{Colophon}\\
+This book is typeset using the \LaTeX{} typesetting system created by Leslie Lamport with the \emph{memoir} class. Short bibliography generated using BibLaTeX. The body text is 12pt Libertine font, originally created by Philipp H. Pol. The first page chapter is inspired from the book \emph{The German Genius}, Peter Watson, Simon \& Schuster Editors, 2011.\\
 
-
-
-
+\bigskip
+\today
+\vspace{\stretch{1}}
 \end{document}
-
-Sources:http://www.teslacollection.com/
-My Inventions Part One - My Early Life	22	22	ELECTRICAL EXPERIMENTER	Nikola Tesla	1919-02-01	BIOGRAPHICAL	696-7,743-7	
-Volume 22 Page 022.jpg
-Volume 22 Page 023.jpg
-Volume 22 Page 024.jpg
-Volume 22 Page 025.jpg
-Volume 22 Page 026.jpg
-Volume 22 Page 027.jpg
-Volume 22 Page 028.jpg
-Volume 22 Page 029.jpg
-
-My Inventions Part Two - My First Efforts In Inventions	22	30	ELECTRICAL EXPERIMENTER	Nikola Tesla	1919-03-01	BIOGRAPHICAL	776-7,839-41,843	
-Volume 22 Page 030.jpg
-Volume 22 Page 031.jpg
-Volume 22 Page 032.jpg
-Volume 22 Page 033.jpg
-Volume 22 Page 034.jpg
-Volume 22 Page 035.jpg
-
-My Inventions Part Three - My Later Endeavors	22	36	ELECTRICAL EXPERIMENTER	Nikola Tesla	1919-04-01	BIOGRAPHICAL	864-5,905,907,909	
-Volume 22 Page 036.jpg
-Volume 22 Page 037.jpg
-Volume 22 Page 038.jpg
-Volume 22 Page 039.jpg
-Volume 22 Page 040.jpg
-
-My Inventions Part Four - The Discovery Of The Tesla Coil And Transformer	22	41	ELECTRICAL EXPERIMENTER	Nikola Tesla	1919-05-01	BIOGRAPHICAL	16-17,64-5,89	Volume 22 Page 041.jpg
-Volume 22 Page 042.jpg
-Volume 22 Page 043.jpg
-Volume 22 Page 044.jpg
-Volume 22 Page 045.jpg
-
-My Inventions Part Five - The Magnifying Transmitter	22	46	ELECTRICAL EXPERIMENTER	Nikola Tesla	1919-06-01	BIOGRAPHICAL	112-3,148,173,176-8	
-Volume 22 Page 046.jpg
-Volume 22 Page 047.jpg
-Volume 22 Page 048.jpg
-Volume 22 Page 049.jpg
-Volume 22 Page 050.jpg
-Volume 22 Page 051.jpg
-Volume 22 Page 052.jpg
-
-My Inventions Part Six - The Art Of Telautomatics	22	53	ELECTRICAL EXPERIMENTER	Nikola Tesla	1919-10-01	REMOTE CONTROL	506-8,550-6,600-3	
-Volume 22 Page 053.jpg
-Volume 22 Page 054.jpg
-Volume 22 Page 055.jpg
-Volume 22 Page 056.jpg
-Volume 22 Page 057.jpg
-Volume 22 Page 058.jpg
-Volume 22 Page 059.jpg
-Volume 22 Page 060.jpg
-Volume 22 Page 061.jpg
-Volume 22 Page 062.jpg
-
-Originaux:
-http://electricalexperimenter.com/
-
-Others:
-http://www.teslauniverse.com/
-http://www.teslasociety.com/

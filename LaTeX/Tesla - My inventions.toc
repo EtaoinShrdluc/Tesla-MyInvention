@@ -2,7 +2,7 @@
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Editor's Preface}{v}{Doc-Start}
+\contentsline {section}{Editor's Preface}{vii}{Doc-Start}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{My Early Life}{1}{Doc-Start}
 \defcounter {refsection}{0}\relax 

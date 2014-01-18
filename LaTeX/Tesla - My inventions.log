@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.4.28)  9 JAN 2014 00:55
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.4.28)  18 JAN 2014 22:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -881,7 +881,7 @@ LaTeX Font Info:    Redeclaring math accent \dot on input line 255.
 LaTeX Font Info:    Redeclaring math accent \mathring on input line 256.
 \symUfutm=\mathgroup5
 )
-(./packages/MF-style_1.sty
+(./packages/MI-style.sty
 (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/02/28 v6.82p Hypertext links for LaTeX
 
@@ -1072,37 +1072,20 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/titlesec/block.tss
 File: block.tss 2011/12/15
-)
-\@notefile=\write4
-\openout4 = `"Tesla - My inventions.ent"'.
-
-LaTeX Info: Redefining \pagenote on input line 108.
-LaTeX Info: Redefining \mem@footto@pagenote on input line 108.
-
-Writing note file "Tesla - My inventions".ent
-) (/usr/local/texlive/2011/texmf-dist/tex/latex/background/background.sty
-Package: background 2009/11/07 v1.0 bg material
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/everypage/everypage.sty
-Package: everypage 2007/06/20 1.1 Hooks to run on every page
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/local/texlive/2011/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/local/texlive/2011/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
-x
-\pgfutil@everybye=\toks26
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box58
-(/usr/local/texlive/2011/texmf-dist/tex/latex/ms/everyshi.sty
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2011/11/14 v0.8 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+\XKV@depth=\count163
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
 ))
-Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/adjustbox/adjcalc.sty)
 (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -1119,60 +1102,53 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count163
+\Gread@gobject=\count164
 ))
 \Gin@req@height=\dimen178
 \Gin@req@width=\dimen179
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks27
-\pgfkeys@temptoks=\toks28
+(/usr/local/texlive/2011/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2011/08/23 v0.4 Collect macro arguments as boxes
+\collectedbox=\box58
+)
+\adjbox@tllx=\dimen180
+\adjbox@tlly=\dimen181
+\adjbox@turx=\dimen182
+\adjbox@tury=\dimen183
+\adjbox@Width=\dimen184
+\adjbox@Height=\dimen185
+\adjbox@Depth=\dimen186
+\adjbox@Totalheight=\dimen187
+Package adjustbox Info: Using driver 'adjpdftex.def'. on input line 290.
 
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
-ode.tex
-\pgfkeys@tmptoks=\toks29
+(/usr/local/texlive/2011/texmf-dist/tex/latex/adjustbox/adjpdftex.def
+File: adjpdftex.def 2011/11/14 v0.8 adjustbox clip driver for pdftex
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box59
+\sift@deathcycles=\count165
+\@vwid@loff=\dimen188
+\@vwid@roff=\dimen189
 ))
-\pgf@x=\dimen180
-\pgf@y=\dimen181
-\pgf@xa=\dimen182
-\pgf@ya=\dimen183
-\pgf@xb=\dimen184
-\pgf@yb=\dimen185
-\pgf@xc=\dimen186
-\pgf@yc=\dimen187
-\w@pgf@writea=\write5
-\r@pgf@reada=\read2
-\c@pgf@counta=\count164
-\c@pgf@countb=\count165
-\c@pgf@countc=\count166
-\c@pgf@countd=\count167
-
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen190
+\WF@size=\dimen191
+\c@WF@wrappedlines=\count166
+\WF@box=\box60
+\WF@everypar=\toks28
+Package: wrapfig 2003/01/31  v 3.6
 )
-Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2012/04/03 v0.4s Insert pages of external PDF documents (AM)
 
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
-ef
-File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
-
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
-df.def
-File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
-)))
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
-code.tex
-File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
-\pgfsyssoftpath@smallbuffer@items=\count168
-\pgfsyssoftpath@bigbuffer@items=\count169
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
-code.tex
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-)) (/usr/local/texlive/2011/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/color.cfg
@@ -1188,248 +1164,14 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen188
-\pgfmath@count=\count170
-\pgfmath@box=\box59
-\pgfmath@toks=\toks30
-\pgfmath@stack@operand=\toks31
-\pgfmath@stack@operation=\toks32
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
-tex
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
-.code.tex)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
-nometric.code.tex)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
-m.code.tex)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
-rison.code.tex)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
-code.tex)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
-.code.tex)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
-code.tex)))
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count171
 ))
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
-de.tex
-File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
-\pgf@picminx=\dimen189
-\pgf@picmaxx=\dimen190
-\pgf@picminy=\dimen191
-\pgf@picmaxy=\dimen192
-\pgf@pathminx=\dimen193
-\pgf@pathmaxx=\dimen194
-\pgf@pathminy=\dimen195
-\pgf@pathmaxy=\dimen196
-\pgf@xx=\dimen197
-\pgf@xy=\dimen198
-\pgf@yx=\dimen199
-\pgf@yy=\dimen200
-\pgf@zx=\dimen201
-\pgf@zy=\dimen202
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2012/04/03 v0.4s Pdfpages driver for pdfTeX (AM)
 )
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
-ruct.code.tex
-File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
-\pgf@path@lastx=\dimen203
-\pgf@path@lasty=\dimen204
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
-.code.tex
-File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
-\pgf@shorten@end@additional=\dimen205
-\pgf@shorten@start@additional=\dimen206
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
-de.tex
-File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
-\pgfpic=\box60
-\pgf@hbox=\box61
-\pgf@layerbox@main=\box62
-\pgf@picture@serial@count=\count172
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
-ate.code.tex
-File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
-\pgflinewidth=\dimen207
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
-ations.code.tex
-File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
-\pgf@pt@x=\dimen208
-\pgf@pt@y=\dimen209
-\pgf@pt@temp=\dimen210
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
-e.tex
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
-ode.tex
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
-ssing.code.tex
-File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
-de.tex
-File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
-e.tex
-File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
-\pgf@max=\dimen211
-\pgf@sys@shading@range@num=\count173
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
-e.tex
-File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
-
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
-code.tex
-File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
-\pgfexternal@startupbox=\box63
-))
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
-de.tex
-File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
-ncy.code.tex
-File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
-code.tex
-File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
-)))
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
-e.tex
-File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
-\pgfnodeparttextbox=\box64
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
-tex
-File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--0-65.sty
-Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen212
-\pgf@nodesepend=\dimen213
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--1-18.sty
-Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
-))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/local/texlive/2011/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
-) (/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
-\pgffor@iter=\dimen214
-\pgffor@skip=\dimen215
-\pgffor@stack=\toks33
-\pgffor@toks=\toks34
-))
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
-e.tex
-Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
-
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
-dlers.code.tex
-File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
-\pgf@plot@mark@count=\count174
-\pgfplotmarksize=\dimen216
-)
-\tikz@lastx=\dimen217
-\tikz@lasty=\dimen218
-\tikz@lastxsaved=\dimen219
-\tikz@lastysaved=\dimen220
-\tikzleveldistance=\dimen221
-\tikzsiblingdistance=\dimen222
-\tikz@figbox=\box65
-\tikz@tempbox=\box66
-\tikztreelevel=\count175
-\tikznumberofchildren=\count176
-\tikznumberofcurrentchild=\count177
-\tikz@fig@count=\count178
-
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
-e.tex
-File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
-\pgfmatrixcurrentrow=\count179
-\pgfmatrixcurrentcolumn=\count180
-\pgf@matrix@numberofcolumns=\count181
-)
-\tikz@expandcount=\count182
-
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
-)))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/afterpage.sty
-Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
-\AP@output=\toks35
-\AP@partial=\box67
-\AP@footins=\box68
-))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-Package: adjustbox 2011/11/14 v0.8 Adjusting TeX boxes (trim, clip, ...)
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
-
-(/usr/local/texlive/2011/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-\XKV@toks=\toks36
-\XKV@tempa@toks=\toks37
-\XKV@depth=\count183
-File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
-))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/adjustbox/adjcalc.sty)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/collectbox/collectbox.sty
-Package: collectbox 2011/08/23 v0.4 Collect macro arguments as boxes
-\collectedbox=\box69
-)
-\adjbox@tllx=\dimen223
-\adjbox@tlly=\dimen224
-\adjbox@turx=\dimen225
-\adjbox@tury=\dimen226
-\adjbox@Width=\dimen227
-\adjbox@Height=\dimen228
-Normal \dimen register pool exhausted, switching to extended pool.
-\adjbox@Depth=\dimen256
-\adjbox@Totalheight=\dimen257
-Package adjustbox Info: Using driver 'adjpdftex.def'. on input line 290.
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/adjustbox/adjpdftex.def
-File: adjpdftex.def 2011/11/14 v0.8 adjustbox clip driver for pdftex
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/varwidth/varwidth.sty
-Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box70
-\sift@deathcycles=\count184
-\@vwid@loff=\dimen258
-\@vwid@roff=\dimen259
-))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen260
-\WF@size=\dimen261
-\c@WF@wrappedlines=\count185
-\WF@box=\box71
-\WF@everypar=\toks38
-Package: wrapfig 2003/01/31  v 3.6
+\AM@pagebox=\box61
+\AM@toc@title=\toks29
+\c@AM@survey=\count167
+\AM@templatesizebox=\box62
 )
 
 Class memoir Warning: You are using the caption package with the memoir 
@@ -1442,62 +1184,18 @@ Package: caption 2012/02/19 v3.2f Customizing captions (AR)
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
-\captionmargin=\dimen262
-\captionmargin@=\dimen263
-\captionwidth=\dimen264
-\caption@indent=\dimen265
-\caption@parindent=\dimen266
-\caption@hangindent=\dimen267
+\captionmargin=\dimen192
+\captionmargin@=\dimen193
+\captionwidth=\dimen194
+\caption@indent=\dimen195
+\caption@parindent=\dimen196
+\caption@hangindent=\dimen197
 )
-\c@ContinuedFloat=\count186
+\c@ContinuedFloat=\count168
 Package caption Info: hyperref package is loaded.
 Package caption Info: wrapfig package is loaded.
 )
-(./packages/picins.sty Option `picins' Version 3.0 Sep. 1992, TH Darmstadt/HRZ
-\@BILD=\box72
-\@TEXT=\box73
-\d@breite=\dimen268
-\d@hoehe=\dimen269
-\d@xoff=\dimen270
-\d@yoff=\dimen271
-\d@shad=\dimen272
-\d@dash=\dimen273
-\d@boxl=\dimen274
-\d@pichskip=\dimen275
-\d@tmp=\dimen276
-\d@tmpa=\dimen277
-\d@bskip=\dimen278
-\hsiz@=\dimen279
-\p@getot@l=\dimen280
-\c@breite=\count187
-\c@hoehe=\count188
-\c@xoff=\count189
-\c@yoff=\count190
-\c@pos=\count191
-\c@shad=\count192
-\c@dash=\count193
-\c@boxl=\count194
-\c@zeilen=\count195
-\@changemode=\count196
-\c@piccaption=\count197
-\c@piccaptionpos=\count198
-\c@picpos=\count199
-\c@whole=\count200
-\c@half=\count201
-\c@tmp=\count202
-\c@tmpa=\count203
-\c@tmpb=\count204
-\c@tmpc=\count205
-\c@tmpd=\count206
-\d@leftskip=\skip202
-\ptoti=\dimen281
-\ptotii=\dimen282
-\env@box=\box74
-\d@envdp=\dimen283
-\c@hsize=\count207
-\c@envdp=\count208
-\d@envb=\dimen284
-) (/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.sty
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2008/07/08 v3.8m The Babel package
 
 (/usr/local/texlive/2011/texmf-dist/tex/generic/babel/english.ldf
@@ -1505,15 +1203,15 @@ Language: english 2005/03/30 v3.3o English support from the babel system
 
 (/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2008/07/08 v3.8m Babel common definitions
-\babel@savecnt=\count209
-\U@D=\dimen285
+\babel@savecnt=\count169
+\U@D=\dimen198
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-\"Tesla - My inventions"@idxfile=\write6
-\openout6 = `"Tesla - My inventions.idx"'.
+\"Tesla - My inventions"@idxfile=\write4
+\openout4 = `"Tesla - My inventions.idx"'.
 
 
 Writing index file "Tesla - My inventions".idx 
@@ -1522,154 +1220,147 @@ Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2010/01/10 v2.4 Micro-typography with pdfTeX (RS)
-\MT@toks=\toks39
-\MT@count=\count210
+\MT@toks=\toks30
+\MT@count=\count170
 LaTeX Info: Redefining \lsstyle on input line 1597.
 LaTeX Info: Redefining \lslig on input line 1597.
-\MT@outer@space=\skip203
+\MT@outer@space=\skip202
 LaTeX Info: Redefining \textls on input line 1605.
-\MT@outer@kern=\dimen286
+\MT@outer@kern=\dimen199
 LaTeX Info: Redefining \textmicrotypecontext on input line 2156.
 Package microtype Info: Loading configuration file microtype.cfg.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2010/01/10 v2.4 microtype main configuration file (RS)
 ))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/lipsum/lipsum.sty
-Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count211
-)
 (/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2011/11/13 v1.7 programmable bibliographies
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
-\etb@tempcnta=\count212
+\etb@tempcnta=\count171
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count213
+\lrq@indent=\count172
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
-)
-\c@listtotal=\count214
-\c@listcount=\count215
-\c@liststart=\count216
-\c@liststop=\count217
-\c@citecount=\count218
-\c@citetotal=\count219
-\c@multicitecount=\count220
-\c@multicitetotal=\count221
-\c@instcount=\count222
-\c@maxnames=\count223
-\c@minnames=\count224
-\c@maxitems=\count225
-\c@minitems=\count226
-\c@citecounter=\count227
-\c@savedcitecounter=\count228
+\c@listtotal=\count173
+\c@listcount=\count174
+\c@liststart=\count175
+\c@liststop=\count176
+\c@citecount=\count177
+\c@citetotal=\count178
+\c@multicitecount=\count179
+\c@multicitetotal=\count180
+\c@instcount=\count181
+\c@maxnames=\count182
+\c@minnames=\count183
+\c@maxitems=\count184
+\c@minitems=\count185
+\c@citecounter=\count186
+\c@savedcitecounter=\count187
+\c@uniquelist=\count188
+\c@uniquename=\count189
+\c@refsection=\count190
+\c@refsegment=\count191
+\c@maxextrayear=\count192
+\c@maxextraalpha=\count193
+\c@abbrvpenalty=\count194
+\c@highnamepenalty=\count195
+\c@lownamepenalty=\count196
+\c@maxparens=\count197
+\c@parenlevel=\count198
+\blx@tempcnta=\count199
+\blx@tempcntb=\count200
+\blx@tempcntc=\count201
+\blx@maxsection=\count202
+\blx@maxsegment=\count203
+\blx@notetype=\count204
+\blx@parenlevel@text=\count205
+\blx@parenlevel@foot=\count206
+\labelnumberwidth=\skip203
+\labelalphawidth=\skip204
+\shorthandwidth=\skip205
+\biblabelsep=\skip206
+\bibnamesep=\skip207
+\bibinitsep=\skip208
+\bibparsep=\skip209
+\bibhang=\skip210
+\blx@auxin=\read2
+\blx@auxout=\write5
+\c@mincomprange=\count207
+\c@maxcomprange=\count208
+\c@mincompwidth=\count209
+\c@labelname=\count210
+\c@savedlabelname=\count211
+\c@author=\count212
+\c@savedauthor=\count213
+\c@shortauthor=\count214
+\c@savedshortauthor=\count215
+\c@editor=\count216
+\c@savededitor=\count217
+\c@editora=\count218
+\c@savededitora=\count219
+\c@editorb=\count220
+\c@savededitorb=\count221
+\c@editorc=\count222
+\c@savededitorc=\count223
+\c@shorteditor=\count224
+\c@savedshorteditor=\count225
+\c@bookauthor=\count226
+\c@savedbookauthor=\count227
+\c@translator=\count228
 Normal \count register pool exhausted, switching to extended pool.
-\c@uniquelist=\count277
-\c@uniquename=\count278
-\c@refsection=\count279
-\c@refsegment=\count280
-\c@maxextrayear=\count281
-\c@maxextraalpha=\count282
-\c@abbrvpenalty=\count283
-\c@highnamepenalty=\count284
-\c@lownamepenalty=\count285
-\c@maxparens=\count286
-\c@parenlevel=\count287
-\blx@tempcnta=\count288
-\blx@tempcntb=\count289
-\blx@tempcntc=\count290
-\blx@maxsection=\count291
-\blx@maxsegment=\count292
-\blx@notetype=\count293
-\blx@parenlevel@text=\count294
-\blx@parenlevel@foot=\count295
-\labelnumberwidth=\skip204
-\labelalphawidth=\skip205
-\shorthandwidth=\skip206
-\biblabelsep=\skip207
-\bibnamesep=\skip208
-\bibinitsep=\skip209
-\bibparsep=\skip210
-\bibhang=\skip211
-\blx@auxin=\read3
-\blx@auxout=\write7
-\c@mincomprange=\count296
-\c@maxcomprange=\count297
-\c@mincompwidth=\count298
-\c@labelname=\count299
-\c@savedlabelname=\count300
-\c@author=\count301
-\c@savedauthor=\count302
-\c@shortauthor=\count303
-\c@savedshortauthor=\count304
-\c@editor=\count305
-\c@savededitor=\count306
-\c@editora=\count307
-\c@savededitora=\count308
-\c@editorb=\count309
-\c@savededitorb=\count310
-\c@editorc=\count311
-\c@savededitorc=\count312
-\c@shorteditor=\count313
-\c@savedshorteditor=\count314
-\c@bookauthor=\count315
-\c@savedbookauthor=\count316
-\c@translator=\count317
-\c@savedtranslator=\count318
-\c@annotator=\count319
-\c@savedannotator=\count320
-\c@commentator=\count321
-\c@savedcommentator=\count322
-\c@introduction=\count323
-\c@savedintroduction=\count324
-\c@foreword=\count325
-\c@savedforeword=\count326
-\c@afterword=\count327
-\c@savedafterword=\count328
-\c@holder=\count329
-\c@savedholder=\count330
-\c@namea=\count331
-\c@savednamea=\count332
-\c@nameb=\count333
-\c@savednameb=\count334
-\c@namec=\count335
-\c@savednamec=\count336
-\c@institution=\count337
-\c@savedinstitution=\count338
-\c@language=\count339
-\c@savedlanguage=\count340
-\c@location=\count341
-\c@savedlocation=\count342
-\c@organization=\count343
-\c@savedorganization=\count344
-\c@origlocation=\count345
-\c@savedoriglocation=\count346
-\c@origpublisher=\count347
-\c@savedorigpublisher=\count348
-\c@pageref=\count349
-\c@savedpageref=\count350
-\c@publisher=\count351
-\c@savedpublisher=\count352
-\c@lista=\count353
-\c@savedlista=\count354
-\c@listb=\count355
-\c@savedlistb=\count356
-\c@listc=\count357
-\c@savedlistc=\count358
-\c@listd=\count359
-\c@savedlistd=\count360
-\c@liste=\count361
-\c@savedliste=\count362
-\c@listf=\count363
-\c@savedlistf=\count364
+\c@savedtranslator=\count277
+\c@annotator=\count278
+\c@savedannotator=\count279
+\c@commentator=\count280
+\c@savedcommentator=\count281
+\c@introduction=\count282
+\c@savedintroduction=\count283
+\c@foreword=\count284
+\c@savedforeword=\count285
+\c@afterword=\count286
+\c@savedafterword=\count287
+\c@holder=\count288
+\c@savedholder=\count289
+\c@namea=\count290
+\c@savednamea=\count291
+\c@nameb=\count292
+\c@savednameb=\count293
+\c@namec=\count294
+\c@savednamec=\count295
+\c@institution=\count296
+\c@savedinstitution=\count297
+\c@language=\count298
+\c@savedlanguage=\count299
+\c@location=\count300
+\c@savedlocation=\count301
+\c@organization=\count302
+\c@savedorganization=\count303
+\c@origlocation=\count304
+\c@savedoriglocation=\count305
+\c@origpublisher=\count306
+\c@savedorigpublisher=\count307
+\c@pageref=\count308
+\c@savedpageref=\count309
+\c@publisher=\count310
+\c@savedpublisher=\count311
+\c@lista=\count312
+\c@savedlista=\count313
+\c@listb=\count314
+\c@savedlistb=\count315
+\c@listc=\count316
+\c@savedlistc=\count317
+\c@listd=\count318
+\c@savedlistd=\count319
+\c@liste=\count320
+\c@savedliste=\count321
+\c@listf=\count322
+\c@savedlistf=\count323
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -1681,37 +1372,39 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2011/11/13 v1.7 biblatex generic definitions
-\c@biburlnumpenalty=\count365
-\c@biburlucpenalty=\count366
-\c@biburllcpenalty=\count367
-\c@smartand=\count368
+\c@biburlnumpenalty=\count324
+\c@biburlucpenalty=\count325
+\c@biburllcpenalty=\count326
+\c@smartand=\count327
 )
-Package biblatex Info: Trying to load bibliography style 'alphabetic'...
-Package biblatex Info: ... file 'alphabetic.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'reading'...
+Package biblatex Info: ... file 'reading.bbx' found.
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/bbx/alphabetic.bbx
-File: alphabetic.bbx 2011/11/13 v1.7 biblatex bibliography style
+(/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/bbx/reading.bbx
+File: reading.bbx 2011/11/13 v1.7 biblatex bibliography style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2011/11/13 v1.7 biblatex bibliography style
 ))
-Package biblatex Info: Trying to load citation style 'alphabetic'...
-Package biblatex Info: ... file 'alphabetic.cbx' found.
+Package biblatex Info: Trying to load citation style 'reading'...
+Package biblatex Info: ... file 'reading.cbx' found.
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/cbx/alphabetic.cbx
-File: alphabetic.cbx 2011/11/13 v1.7 biblatex citation style
+(/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/cbx/reading.cbx
+File: reading.cbx 2011/11/13 v1.7 biblatex citation style
+Package biblatex Info: Trying to load citation style 'authortitle'...
+Package biblatex Info: ... file 'authortitle.cbx' found.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/biblatex/cbx/authortitle.cbx
+File: authortitle.cbx 2011/11/13 v1.7 biblatex citation style
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
 Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
 Package biblatex Info: Redefining '\textcite'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\smartcites'.
-)
+))
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
@@ -1728,63 +1421,63 @@ File: english.lbx 2011/11/13 v1.7 biblatex localization
 Package biblatex Warning: 'babel' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count369
-\@quotereset=\count370
+\@quotelevel=\count328
+\@quotereset=\count329
 (./Tesla - My inventions.aux)
 \openout1 = `"Tesla - My inventions.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 75.
-LaTeX Font Info:    Try loading font information for FML+futm on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 62.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 62.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 75.
-LaTeX Font Info:    Try loading font information for FMS+futm on input line 75.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 62.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 62.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 75.
-LaTeX Font Info:    Try loading font information for FMX+futm on input line 75.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 62.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 62.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 75.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 62.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Try loading font information for T1+futs on input line 75.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Try loading font information for T1+futs on input line 62.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/fourier/t1futs.fd
 File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
 )
-\AtBeginShipoutBox=\box75
-Package hyperref Info: Link coloring ON on input line 75.
+\AtBeginShipoutBox=\box63
+Package hyperref Info: Link coloring ON on input line 62.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -1792,33 +1485,32 @@ Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count371
+\c@section@level=\count330
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 75.
-LaTeX Info: Redefining \ref on input line 75.
-LaTeX Info: Redefining \pageref on input line 75.
-LaTeX Info: Redefining \nameref on input line 75.
+LaTeX Info: Redefining \nameref on input line 62.
+LaTeX Info: Redefining \ref on input line 62.
+LaTeX Info: Redefining \pageref on input line 62.
+LaTeX Info: Redefining \nameref on input line 62.
 (./Tesla - My inventions.out) (./Tesla - My inventions.out)
-\@outlinefile=\write8
-\openout8 = `"Tesla - My inventions.out"'.
+\@outlinefile=\write6
+\openout6 = `"Tesla - My inventions.out"'.
 
 
-ABD: EveryShipout initializing macros
 (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count372
-\scratchdimen=\dimen287
-\scratchbox=\box76
-\nofMPsegments=\count373
-\nofMParguments=\count374
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count375
-\MPscratchDim=\dimen288
-\MPnumerator=\count376
-\makeMPintoPDFobject=\count377
-\everyMPtoPDFconversion=\toks41
+\scratchcounter=\count331
+\scratchdimen=\dimen200
+\scratchbox=\box64
+\nofMPsegments=\count332
+\nofMParguments=\count333
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count334
+\MPscratchDim=\dimen201
+\MPnumerator=\count335
+\makeMPintoPDFobject=\count336
+\everyMPtoPDFconversion=\toks32
 ) (/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1846,7 +1538,7 @@ Package caption Warning: \caption will not be redefined since it's already
 See the caption package documentation for explanation.
 
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 75.
+LaTeX Info: Redefining \microtypecontext on input line 62.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1872,7 +1564,7 @@ Package biblatex Info: Data encoding 'latin1' specified.
 Package biblatex Warning: Data encoding is 'latin1'.
 (biblatex)                Use backend=bibtex8 or backend=biber.
 
-\openout7 = `Tesla_-_My_inventions-blx.bib'.
+\openout5 = `Tesla_-_My_inventions-blx.bib'.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/base/latin1.def
 File: latin1.def 2008/03/30 v1.1d Input encoding file
@@ -1881,76 +1573,106 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '"Tesla - My inventions".bbl' found.
 
 (./Tesla - My inventions.bbl)
-Package biblatex Info: Reference section=0 on input line 75.
-Package biblatex Info: Reference segment=0 on input line 75.
-LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 91.
+Package biblatex Info: Reference section=0 on input line 62.
+Package biblatex Info: Reference segment=0 on input line 62.
+
+<Figures/cover.pdf, id=108, page=1, 642.4pt x 1027.84pt>
+File: Figures/cover.pdf Graphic file (type pdf)
+
+<use Figures/cover.pdf, page 1>
+Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 67.
+(pdftex.def)             Requested size: 642.39844pt x 1027.8375pt.
+File: Figures/cover.pdf Graphic file (type pdf)
+ <use Figures/cover.pdf, page 1>
+Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 67.
+(pdftex.def)             Requested size: 528.58482pt x 845.73572pt.
+File: Figures/cover.pdf Graphic file (type pdf)
+
+<use Figures/cover.pdf, page 1>
+Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 67.
+(pdftex.def)             Requested size: 528.58482pt x 845.73572pt.
+File: Figures/cover.pdf Graphic file (type pdf)
+ <use Figures/cover.pdf, page 1>
+Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 67.
+(pdftex.def)             Requested size: 528.58482pt x 845.73572pt.
+File: Figures/cover.pdf Graphic file (type pdf)
+
+<use Figures/cover.pdf, page 1>
+Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 67.
+(pdftex.def)             Requested size: 528.58482pt x 845.73572pt.
  [1
 
 
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] <Figure
-s/cc-large.png, id=116, 385.44pt x 385.44pt>
+ <./Figures/cover.pdf{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap
+/pdftex.map}>]
+<Figures/cc-large.png, id=133, 385.44pt x 385.44pt>
 File: Figures/cc-large.png Graphic file (type png)
-
-<use Figures/cc-large.png>
-Package pdftex.def Info: Figures/cc-large.png used on input line 135.
+ <use Figures/cc-large.png>
+Package pdftex.def Info: Figures/cc-large.png used on input line 74.
 (pdftex.def)             Requested size: 28.45274pt x 28.448pt.
- <Figures/by-large.png, id=118, 385.44pt x 385.44pt>
+
+<Figures/by-large.png, id=135, 385.44pt x 385.44pt>
 File: Figures/by-large.png Graphic file (type png)
-
-<use Figures/by-large.png>
-Package pdftex.def Info: Figures/by-large.png used on input line 136.
+ <use Figures/by-large.png>
+Package pdftex.def Info: Figures/by-large.png used on input line 75.
 (pdftex.def)             Requested size: 28.45274pt x 28.448pt.
- <Figures/nc-large.png, id=119, 385.44pt x 385.44pt>
+
+<Figures/nc-large.png, id=136, 385.44pt x 385.44pt>
 File: Figures/nc-large.png Graphic file (type png)
-
-<use Figures/nc-large.png>
-Package pdftex.def Info: Figures/nc-large.png used on input line 137.
+ <use Figures/nc-large.png>
+Package pdftex.def Info: Figures/nc-large.png used on input line 76.
 (pdftex.def)             Requested size: 28.45274pt x 28.448pt.
- <Figures/sa-large.png, id=120, 385.44pt x 385.44pt>
+
+<Figures/sa-large.png, id=137, 385.44pt x 385.44pt>
 File: Figures/sa-large.png Graphic file (type png)
-
-<use Figures/sa-large.png>
-Package pdftex.def Info: Figures/sa-large.png used on input line 138.
+ <use Figures/sa-large.png>
+Package pdftex.def Info: Figures/sa-large.png used on input line 77.
 (pdftex.def)             Requested size: 28.45274pt x 28.448pt.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 143.
-
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 82.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 14
-3.
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 82
+.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 143.
+(Font)              scaled to size 11.03998pt on input line 82.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 143.
+(Font)              scaled to size 8.27998pt on input line 82.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 143.
+(Font)              scaled to size 6.43999pt on input line 82.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 143.
+(Font)              scaled to size 11.03998pt on input line 82.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 143.
+(Font)              scaled to size 8.27998pt on input line 82.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 143.
+(Font)              scaled to size 6.43999pt on input line 82.
  [2 <./Figures/cc-large.png> <./Figures/by-large.png> <./Figures/nc-large.png> 
 <./Figures/sa-large.png>]
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 100.
+ [3
+
+] [4
+
+]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 155.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 133.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 155.
-LaTeX Font Info:    Try loading font information for U+futs on input line 155.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/fourier/ufuts.fd
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 133.
+LaTeX Font Info:    Try loading font information for U+futs on input line 133.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fourier/ufuts.fd
 File: ufuts.fd 2004/03/26 Fontinst v1.926 font definitions for U/futs.
 )
 LaTeX Font Info:    Font shape `U/futs/bx/n' in size <17.28> not available
-(Font)              Font shape `U/futs/b/n' tried instead on input line 155.
+(Font)              Font shape `U/futs/b/n' tried instead on input line 133.
 LaTeX Font Info:    Font shape `T1/futs/bx/sc' in size <17.28> not available
-(Font)              Font shape `T1/futs/b/sc' tried instead on input line 155.
+(Font)              Font shape `T1/futs/b/sc' tried instead on input line 133.
 
 (./Tesla - My inventions.toc
 LaTeX Font Info:    Try loading font information for TS1+futs on input line 23.
@@ -1972,33 +1694,28 @@ T1/futs/m/n/12 (-20) Radio Gov-ern-ment Con-trol Not Wanted[][]|, 58|  \TS1/fut
 s/m/n/12 ˆ| |[][]\T1/futs/m/n/12 (-20) America 
  []
 
-) [3
-
-] [4
+) [5] [6
 
 ]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 169.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 147.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 182.
+(Font)              scaled to size 9.19998pt on input line 160.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 182.
+(Font)              scaled to size 6.99199pt on input line 160.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 182.
+(Font)              scaled to size 5.51999pt on input line 160.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 182.
+(Font)              scaled to size 9.19998pt on input line 160.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 182.
+(Font)              scaled to size 6.99199pt on input line 160.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 182.
- [5]
+(Font)              scaled to size 5.51999pt on input line 160.
+ [7]
 LaTeX Font Info:    Font shape `T1/futs/bx/it' in size <12> not available
-(Font)              Font shape `T1/futs/b/it' tried instead on input line 197.
-
-Overfull \hbox (15.17165pt too wide) in paragraph at lines 197--197
-\T1/futs/m/it/10.95 (-20) cal Ex-per-i-menter, Sci-ences and In-ven-tions \T1/f
-uts/m/n/10.95 (-20) 22 (Apr. 1919), pp. 864^^U5,905,907,909. 
- []
+(Font)              Font shape `T1/futs/b/it' tried instead on input line 175.
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 175.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -2006,29 +1723,29 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6]
+[8]
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 222.
+(Font)              scaled to size 10.07397pt on input line 200.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 222.
+(Font)              scaled to size 7.63599pt on input line 200.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 222.
+(Font)              scaled to size 10.07397pt on input line 200.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 222.
+(Font)              scaled to size 7.63599pt on input line 200.
 
-Underfull \hbox (badness 3199) in paragraph at lines 222--222
+Underfull \hbox (badness 3199) in paragraph at lines 200--200
 []\T1/futs/m/it/10.95 (+20) In his au-to-bi-og-ra-phy, treat-ing mainly on his 
 early youth,
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 222--222
+Underfull \hbox (badness 1102) in paragraph at lines 200--200
 \T1/futs/m/it/10.95 (+20) we ob-tain a good in-sight into the won-der-ful life 
 this man
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
 
  []
 
@@ -2041,64 +1758,64 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] <Figures/Tesla-29.png, id=248, 385.44pt x 555.57562pt>
+[2] <Figures/Tesla-29.png, id=276, 385.44pt x 555.57562pt>
 File: Figures/Tesla-29.png Graphic file (type png)
 
 <use Figures/Tesla-29.png>
-Package pdftex.def Info: Figures/Tesla-29.png used on input line 296.
+Package pdftex.def Info: Figures/Tesla-29.png used on input line 274.
 (pdftex.def)             Requested size: 241.29187pt x 347.79341pt.
 
-Overfull \hbox (2.06311pt too wide) in paragraph at lines 302--322
+Overfull \hbox (2.06311pt too wide) in paragraph at lines 280--300
 \T1/futs/m/n/12 (-20) tended from my very birth
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 302--322
+Underfull \hbox (badness 5985) in paragraph at lines 280--300
 \T1/futs/m/n/12 (+20) for the cler-i-cal pro-fes-
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 302--322
+Underfull \hbox (badness 5260) in paragraph at lines 280--300
 \T1/futs/m/n/12 (+20) sion and this thought
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 302--322
+Underfull \hbox (badness 2781) in paragraph at lines 280--300
 \T1/futs/m/n/12 (+20) the army of the Great
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 302--322
+Underfull \hbox (badness 1242) in paragraph at lines 280--300
 \T1/futs/m/n/12 (+20) Napoleon and, in com-
  []
 
 
-Underfull \hbox (badness 5175) in paragraph at lines 302--322
+Underfull \hbox (badness 5175) in paragraph at lines 280--300
 \T1/futs/m/n/12 (+20) mon with his brother,
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 302--322
+Underfull \hbox (badness 2027) in paragraph at lines 280--300
 \T1/futs/m/n/12 (+20) pro-fes-sor of math-e-mat-
  []
 
 
-Underfull \hbox (badness 2521) in paragraph at lines 302--322
+Underfull \hbox (badness 2521) in paragraph at lines 280--300
 \T1/futs/m/n/12 (+20) ics in a promi-nent in-
  []
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 302--322
+Underfull \hbox (badness 2564) in paragraph at lines 280--300
 \T1/futs/m/n/12 (+20) mil-i-tary ed-u-ca-tion but,
  []
 
 
-Overfull \hbox (9.35649pt too wide) in paragraph at lines 302--322
+Overfull \hbox (9.35649pt too wide) in paragraph at lines 280--300
 \T1/futs/m/n/12 (-20) which vo-ca-tion he achieved
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 302--322
+Underfull \hbox (badness 1590) in paragraph at lines 280--300
 \T1/futs/m/n/12 (+20) and writer and his ser-
  []
 
@@ -2131,28 +1848,28 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 
 [6]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 460.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 438.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 460.
- <Figures/Tesla-23.png, id=265, 385.44pt x 551.81157pt>
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 438.
+ <Figures/Tesla-23.png, id=294, 385.44pt x 551.81157pt>
 File: Figures/Tesla-23.png Graphic file (type png)
 
 <use Figures/Tesla-23.png>
-Package pdftex.def Info: Figures/Tesla-23.png used on input line 460.
+Package pdftex.def Info: Figures/Tesla-23.png used on input line 438.
 (pdftex.def)             Requested size: 248.94766pt x 356.39989pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 429--461
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 407--439
 [][] 
  []
 
-<Figures/Tesla-39.png, id=266, 389.95688pt x 548.80031pt>
+<Figures/Tesla-39.png, id=295, 389.95688pt x 548.80031pt>
 File: Figures/Tesla-39.png Graphic file (type png)
 
 <use Figures/Tesla-39.png>
-Package pdftex.def Info: Figures/Tesla-39.png used on input line 495.
+Package pdftex.def Info: Figures/Tesla-39.png used on input line 473.
 (pdftex.def)             Requested size: 248.94766pt x 350.35172pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 463--496
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 441--474
 [][] 
  []
 
@@ -2188,7 +1905,7 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 629--629
+Underfull \hbox (badness 10000) in paragraph at lines 607--607
 
  []
 
@@ -2201,11 +1918,11 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12] <Figures/House.png, id=292, 724.95844pt x 461.47406pt>
+[12] <Figures/House.png, id=321, 724.95844pt x 461.47406pt>
 File: Figures/House.png Graphic file (type png)
 
 <use Figures/House.png>
-Package pdftex.def Info: Figures/House.png used on input line 715.
+Package pdftex.def Info: Figures/House.png used on input line 693.
 (pdftex.def)             Requested size: 287.25pt x 182.85413pt.
 
 
@@ -2235,15 +1952,15 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16] <Figures/Tesla-bulbe.png, id=310, 1120.9378pt x 1490.56876pt>
+[16] <Figures/Tesla-bulbe.png, id=339, 1120.9378pt x 1490.56876pt>
 File: Figures/Tesla-bulbe.png Graphic file (type png)
 
 <use Figures/Tesla-bulbe.png>
-Package pdftex.def Info: Figures/Tesla-bulbe.png used on input line 835.
+Package pdftex.def Info: Figures/Tesla-bulbe.png used on input line 813.
 (pdftex.def)             Requested size: 497.90117pt x 662.0842pt.
 
 
-LaTeX Warning: Float too large for page by 82.0787pt on input line 837.
+LaTeX Warning: Float too large for page by 82.0787pt on input line 815.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -2273,7 +1990,7 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 959--959
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
 
  []
 
@@ -2286,24 +2003,24 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[22] <Figures/Tesla-60.png, id=337, 626.34pt x 819.8128pt>
+[22] <Figures/Tesla-60.png, id=365, 626.34pt x 819.8128pt>
 File: Figures/Tesla-60.png Graphic file (type png)
 
 <use Figures/Tesla-60.png>
-Package pdftex.def Info: Figures/Tesla-60.png used on input line 1024.
+Package pdftex.def Info: Figures/Tesla-60.png used on input line 1002.
 (pdftex.def)             Requested size: 241.29187pt x 315.8228pt.
 
-Underfull \hbox (badness 2302) in paragraph at lines 1030--1046
+Underfull \hbox (badness 2302) in paragraph at lines 1008--1024
 \T1/futs/m/n/12 (+20) der a more rigid dis-ci-
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 1030--1046
+Underfull \hbox (badness 1831) in paragraph at lines 1008--1024
 \T1/futs/m/n/12 (+20) ity and de-li-ciously pre-
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 1030--1046
+Underfull \hbox (badness 1057) in paragraph at lines 1008--1024
 \T1/futs/m/n/12 (+20) tity by a thou-sand per-
  []
 
@@ -2327,34 +2044,34 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[25] <Figures/IndMotor.png, id=351, 612.03656pt x 492.33937pt>
+[25] <Figures/IndMotor.png, id=379, 612.03656pt x 492.33937pt>
 File: Figures/IndMotor.png Graphic file (type png)
 
 <use Figures/IndMotor.png>
-Package pdftex.def Info: Figures/IndMotor.png used on input line 1133.
+Package pdftex.def Info: Figures/IndMotor.png used on input line 1111.
 (pdftex.def)             Requested size: 241.29187pt x 194.10004pt.
 
-Underfull \hbox (badness 1796) in paragraph at lines 1137--1150
+Underfull \hbox (badness 1796) in paragraph at lines 1115--1128
 []\T1/futs/m/n/12 (+20) subjects and ge-om-e-try;
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 1137--1150
+Underfull \hbox (badness 1584) in paragraph at lines 1115--1128
 \T1/futs/m/n/12 (+20) the chair of the-o-ret-i-cal
  []
 
 
-Overfull \hbox (1.18909pt too wide) in paragraph at lines 1137--1150
+Overfull \hbox (1.18909pt too wide) in paragraph at lines 1115--1128
 \T1/futs/m/n/12 (-20) and ex-per-i-men-tal physics,
  []
 
 
-Overfull \hbox (8.87053pt too wide) in paragraph at lines 1137--1150
+Overfull \hbox (8.87053pt too wide) in paragraph at lines 1115--1128
 \T1/futs/m/n/12 (-20) cial-ized in dif-fer-en-tial equa-
  []
 
 
-Underfull \hbox (badness 3492) in paragraph at lines 1137--1150
+Underfull \hbox (badness 3492) in paragraph at lines 1115--1128
 \T1/futs/m/n/12 (+20) room, giv-ing me prob-
  []
 
@@ -2365,22 +2082,22 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [26 <./Figures/IndMotor.png (PNG copy)>]
-Underfull \hbox (badness 1824) in paragraph at lines 1171--1174
+Underfull \hbox (badness 1824) in paragraph at lines 1149--1152
 \T1/futs/m/n/12 (+20) I was right and un-der-
  []
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 1175--1181
+Underfull \hbox (badness 7221) in paragraph at lines 1153--1159
 \T1/futs/m/n/12 (+20) tur-ing in my mind a
  []
 
 
-Underfull \hbox (badness 4132) in paragraph at lines 1175--1181
+Underfull \hbox (badness 4132) in paragraph at lines 1153--1159
 \T1/futs/m/n/12 (+20) direct-current ma-chine,
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 1175--1181
+Underfull \hbox (badness 2961) in paragraph at lines 1153--1159
 \T1/futs/m/n/12 (+20) Then I would imag-ine
  []
 
@@ -2412,18 +2129,18 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [30]
-Underfull \hbox (badness 10000) in paragraph at lines 1299--1299
+Underfull \hbox (badness 10000) in paragraph at lines 1277--1277
 
  []
 
 [31
 
-] <Figures/OscillationTransformer.png, id=394, 662.475pt x 846.91406pt>
+] <Figures/OscillationTransformer.png, id=422, 662.475pt x 846.91406pt>
 File: Figures/OscillationTransformer.png Graphic file (type png)
 
 <use Figures/OscillationTransformer.png>
 Package pdftex.def Info: Figures/OscillationTransformer.png used on input line 
-1354.
+1332.
 (pdftex.def)             Requested size: 241.29187pt x 308.46846pt.
 
 
@@ -2433,63 +2150,63 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [32]
-Underfull \hbox (badness 7151) in paragraph at lines 1358--1370
+Underfull \hbox (badness 7151) in paragraph at lines 1336--1348
 []\T1/futs/m/n/12 (+20) few months I had to
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 1358--1370
+Underfull \hbox (badness 2181) in paragraph at lines 1336--1348
 \T1/futs/m/n/12 (+20) travel from one to an-
  []
 
 
-Underfull \hbox (badness 4940) in paragraph at lines 1358--1370
+Underfull \hbox (badness 4940) in paragraph at lines 1336--1348
 \T1/futs/m/n/12 (+20) pany, Mr. Rau, a plan
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 1358--1370
+Underfull \hbox (badness 2799) in paragraph at lines 1336--1348
 \T1/futs/m/n/12 (+20) for im-prov-ing their dy-
  []
 
 
-Underfull \hbox (badness 5050) in paragraph at lines 1358--1370
+Underfull \hbox (badness 5050) in paragraph at lines 1336--1348
 \T1/futs/m/n/12 (+20) namos and was given
  []
 
 
-Underfull \hbox (badness 4266) in paragraph at lines 1358--1370
+Underfull \hbox (badness 4266) in paragraph at lines 1336--1348
 \T1/futs/m/n/12 (+20) the de-lighted di-rec-tors
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 1358--1370
+Underfull \hbox (badness 1917) in paragraph at lines 1336--1348
 \T1/futs/m/n/12 (+20) ac-corded me the priv-i-
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 1358--1370
+Underfull \hbox (badness 1917) in paragraph at lines 1336--1348
 \T1/futs/m/n/12 (+20) matic reg-u-la-tors which
  []
 
 
-Overfull \hbox (6.6022pt too wide) in paragraph at lines 1358--1370
+Overfull \hbox (6.6022pt too wide) in paragraph at lines 1336--1348
 \T1/futs/m/n/12 (-20) were much de-sired. Shortly
  []
 
 
-Underfull \hbox (badness 3724) in paragraph at lines 1358--1370
+Underfull \hbox (badness 3724) in paragraph at lines 1336--1348
 \T1/futs/m/n/12 (+20) a large part of a wall
  []
 
 
-Underfull \hbox (badness 3158) in paragraph at lines 1358--1370
+Underfull \hbox (badness 3158) in paragraph at lines 1336--1348
 \T1/futs/m/n/12 (+20) was blown out thru a
  []
 
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 1372.
+(hyperref)                be the same. Added a new anchor on input line 1350.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -2498,11 +2215,11 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [33 <./Figures/OscillationTransformer.png (PNG copy)>]
-<Figures/Sparks.png, id=404, 621.82312pt x 761.84625pt>
+<Figures/Sparks.png, id=432, 621.82312pt x 761.84625pt>
 File: Figures/Sparks.png Graphic file (type png)
 
 <use Figures/Sparks.png>
-Package pdftex.def Info: Figures/Sparks.png used on input line 1415.
+Package pdftex.def Info: Figures/Sparks.png used on input line 1393.
 (pdftex.def)             Requested size: 241.29187pt x 295.61923pt.
 
 
@@ -2512,67 +2229,67 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [34]
-Underfull \hbox (badness 1681) in paragraph at lines 1419--1427
+Underfull \hbox (badness 1681) in paragraph at lines 1397--1405
 \T1/futs/m/n/12 (+20) with-out his ex-plicit ap-
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 1419--1427
+Underfull \hbox (badness 1028) in paragraph at lines 1397--1405
 \T1/futs/m/n/12 (+20) proval." Ac-cord-ingly ar-
  []
 
 
-Underfull \hbox (badness 4726) in paragraph at lines 1419--1427
+Underfull \hbox (badness 4726) in paragraph at lines 1397--1405
 \T1/futs/m/n/12 (+20) range-ments for a visit
  []
 
 
-Overfull \hbox (0.112pt too wide) in paragraph at lines 1419--1427
+Overfull \hbox (0.112pt too wide) in paragraph at lines 1397--1405
 \T1/futs/m/n/12 (-20) ing up and pol-ish-ing early
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 1419--1427
+Underfull \hbox (badness 1565) in paragraph at lines 1397--1405
 \T1/futs/m/n/12 (+20) in the morn-ing. Ev-ery-
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 1419--1427
+Underfull \hbox (badness 1472) in paragraph at lines 1397--1405
 \T1/futs/m/n/12 (+20) inue he was cer-e-mo-ni-
  []
 
 
-Underfull \hbox (badness 6204) in paragraph at lines 1419--1427
+Underfull \hbox (badness 6204) in paragraph at lines 1397--1405
 \T1/futs/m/n/12 (+20) hours' de-lib-er-a-tion he
  []
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 1419--1427
+Underfull \hbox (badness 1852) in paragraph at lines 1397--1405
 \T1/futs/m/n/12 (+20) sud-denly ex-claimed: "I
  []
 
 
-Overfull \hbox (2.68478pt too wide) in paragraph at lines 1419--1427
+Overfull \hbox (2.68478pt too wide) in paragraph at lines 1397--1405
 \T1/futs/m/n/12 (-20) must be go-ing," and point-
  []
 
 
-Underfull \hbox (badness 7133) in paragraph at lines 1428--1452
+Underfull \hbox (badness 7133) in paragraph at lines 1406--1430
 []\T1/futs/m/n/12 (+20) So it went day af-
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 1428--1452
+Underfull \hbox (badness 1895) in paragraph at lines 1406--1430
 \T1/futs/m/n/12 (+20) ter day with vari-a-tions,
  []
 
 
-Underfull \hbox (badness 1910) in paragraph at lines 1428--1452
+Underfull \hbox (badness 1910) in paragraph at lines 1406--1430
 \T1/futs/m/n/12 (+20) were re-warded. By the
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 1428--1452
+Underfull \hbox (badness 1168) in paragraph at lines 1406--1430
 \T1/futs/m/n/12 (+20) fer-ences were ad-justed,
  []
 
@@ -2596,11 +2313,11 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[37] <Figures/MechA.png, id=423, 758.08218pt x 861.9703pt>
+[37] <Figures/MechA.png, id=451, 758.08218pt x 861.9703pt>
 File: Figures/MechA.png Graphic file (type png)
 
 <use Figures/MechA.png>
-Package pdftex.def Info: Figures/MechA.png used on input line 1531.
+Package pdftex.def Info: Figures/MechA.png used on input line 1509.
 (pdftex.def)             Requested size: 383.0pt x 435.49544pt.
 
 
@@ -2624,7 +2341,7 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [40]
-Underfull \hbox (badness 10000) in paragraph at lines 1586--1586
+Underfull \hbox (badness 10000) in paragraph at lines 1564--1564
 
  []
 
@@ -2633,12 +2350,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1586--1586
 ]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 1612.
+(hyperref)                be the same. Added a new anchor on input line 1590.
 
-<Figures/Tower.png, id=440, 524.71031pt x 874.76813pt>
+<Figures/Tower.png, id=470, 524.71031pt x 874.76813pt>
 File: Figures/Tower.png Graphic file (type png)
  <use Figures/Tower.png>
-Package pdftex.def Info: Figures/Tower.png used on input line 1642.
+Package pdftex.def Info: Figures/Tower.png used on input line 1620.
 (pdftex.def)             Requested size: 266.32568pt x 444.0pt.
 
 
@@ -2668,15 +2385,15 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[45] <Figures/TowerIsland.png, id=458, 1135.24126pt x 1535.7375pt>
+[45] <Figures/TowerIsland.png, id=487, 1135.24126pt x 1535.7375pt>
 File: Figures/TowerIsland.png Graphic file (type png)
 
 <use Figures/TowerIsland.png>
-Package pdftex.def Info: Figures/TowerIsland.png used on input line 1750.
+Package pdftex.def Info: Figures/TowerIsland.png used on input line 1728.
 (pdftex.def)             Requested size: 497.90117pt x 673.54729pt.
 
 
-LaTeX Warning: Float too large for page by 79.94179pt on input line 1752.
+LaTeX Warning: Float too large for page by 79.94179pt on input line 1730.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -2727,13 +2444,13 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [52]
-Underfull \hbox (badness 10000) in paragraph at lines 1946--1946
+Underfull \hbox (badness 10000) in paragraph at lines 1924--1924
 
  []
 
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 1955.
+(hyperref)                be the same. Added a new anchor on input line 1933.
 
 [53
 
@@ -2744,11 +2461,11 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[54] <Figures/TelBoat.png, id=513, 724.95844pt x 393.72093pt>
+[54] <Figures/TelBoat.png, id=542, 724.95844pt x 393.72093pt>
 File: Figures/TelBoat.png Graphic file (type png)
 
 <use Figures/TelBoat.png>
-Package pdftex.def Info: Figures/TelBoat.png used on input line 2008.
+Package pdftex.def Info: Figures/TelBoat.png used on input line 1986.
 (pdftex.def)             Requested size: 287.25pt x 156.00769pt.
 
 Underfull \vbox (badness 5726) has occurred while \output is active []
@@ -2774,15 +2491,15 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[57] <Figures/TelAer.png, id=527, 1148.79187pt x 1579.40062pt>
+[57] <Figures/TelAer.png, id=555, 1148.79187pt x 1579.40062pt>
 File: Figures/TelAer.png Graphic file (type png)
 
 <use Figures/TelAer.png>
-Package pdftex.def Info: Figures/TelAer.png used on input line 2120.
+Package pdftex.def Info: Figures/TelAer.png used on input line 2098.
 (pdftex.def)             Requested size: 497.90117pt x 684.52736pt.
 
 
-LaTeX Warning: Float too large for page by 90.92186pt on input line 2122.
+LaTeX Warning: Float too large for page by 90.92186pt on input line 2100.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -2828,11 +2545,11 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[63] <Figures/Tesla-Younger.png, id=553, 624.83438pt x 759.58781pt>
+[63] <Figures/Tesla-Younger.png, id=581, 624.83438pt x 759.58781pt>
 File: Figures/Tesla-Younger.png Graphic file (type png)
 
 <use Figures/Tesla-Younger.png>
-Package pdftex.def Info: Figures/Tesla-Younger.png used on input line 2320.
+Package pdftex.def Info: Figures/Tesla-Younger.png used on input line 2298.
 (pdftex.def)             Requested size: 241.29187pt x 293.32887pt.
 
 
@@ -2842,27 +2559,27 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [64]
-Underfull \hbox (badness 3792) in paragraph at lines 2324--2329
+Underfull \hbox (badness 3792) in paragraph at lines 2302--2307
 \T1/futs/m/n/12 (+20) i-fied as "cos-mic," and
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 2330--2349
+Underfull \hbox (badness 1286) in paragraph at lines 2308--2327
 \T1/futs/m/n/12 (+20) nal in-flu-ences. This re-
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 2330--2349
+Underfull \hbox (badness 2717) in paragraph at lines 2308--2327
 \T1/futs/m/n/12 (+20) sults in like-ness of re-
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 2330--2349
+Underfull \hbox (badness 2608) in paragraph at lines 2308--2327
 \T1/futs/m/n/12 (+20) are based. We are au-
  []
 
 
-Overfull \hbox (2.27968pt too wide) in paragraph at lines 2330--2349
+Overfull \hbox (2.27968pt too wide) in paragraph at lines 2308--2327
 \T1/futs/m/n/12 (-20) tomata en-tirely con-trolled
  []
 
@@ -2893,15 +2610,17 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[68]
-\tf@toc=\write9
-\openout9 = `"Tesla - My inventions.toc"'.
+[68] [69
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2449.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2449.
+]
+\tf@toc=\write7
+\openout7 = `"Tesla - My inventions.toc"'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2434.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2434.
  (./Tesla - My inventions.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2449.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2449.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2434.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2434.
 
 Package rerunfilecheck Info: File `"Tesla - My inventions".out' has not changed
 .
@@ -2911,13 +2630,13 @@ Package logreq Info: Writing requests to '"Tesla - My inventions".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37227 strings out of 494996
- 576018 string characters out of 3179584
- 1111021 words of memory out of 3000000
- 39031 multiletter control sequences out of 15000+200000
- 250400 words of font info for 666 fonts, out of 3000000 for 9000
+ 29695 strings out of 494996
+ 420431 string characters out of 3179584
+ 889273 words of memory out of 3000000
+ 31677 multiletter control sequences out of 15000+200000
+ 254786 words of font info for 666 fonts, out of 3000000 for 9000
  36 hyphenation exceptions out of 8191
- 69i,12n,92p,884b,1750s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,18n,92p,884b,1748s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2011/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/tex
 live/2011/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/texl
@@ -2929,10 +2648,10 @@ mf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2011/texmf-dist
 type1/adobe/utopia/putri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/
 public/cm-super/sftt1000.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pu
 blic/cm-super/sftt1200.pfb>
-Output written on "Tesla - My inventions.pdf" (74 pages, 16792511 bytes).
+Output written on "Tesla - My inventions.pdf" (77 pages, 16810454 bytes).
 PDF statistics:
- 639 PDF objects out of 1000 (max. 8388607)
- 494 compressed objects within 5 object streams
- 121 named destinations out of 1000 (max. 500000)
- 86380 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 672 PDF objects out of 1000 (max. 8388607)
+ 514 compressed objects within 6 object streams
+ 124 named destinations out of 1000 (max. 500000)
+ 86895 words of extra memory for PDF output out of 89155 (max. 10000000)
 
