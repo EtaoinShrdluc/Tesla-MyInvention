@@ -1,8 +1,11 @@
 # My Inventions, Nikola Tesla's Autobiography
-<img src="https://raw.github.com/EtaoinShrdluc/Tesla-MyInvention/master/Screenshots/Tesla-cover.jpeg?raw=true" width=20%  />
-<img src="https://raw.github.com/EtaoinShrdluc/Tesla-MyInvention/master/Screenshots/Tesla-scr1.jpeg?raw=true" width=20%  />
-<img src="https://raw.github.com/EtaoinShrdluc/Tesla-MyInvention/master/Screenshots/Tesla-scr2.jpeg?raw=true" width=20%  />
 
+<img src="https://raw.github.com/EtaoinShrdluc/Tesla-MyInvention/master/Screenshots/Tesla-cover.jpeg?raw=true" width=20%  />
+&nbsp;
+<img src="https://raw.github.com/EtaoinShrdluc/Tesla-MyInvention/master/Screenshots/Tesla-scr2.jpeg?raw=true" width=30%/>
+&nbsp;
+<img src="https://raw.github.com/EtaoinShrdluc/Tesla-MyInvention/master/Screenshots/Tesla-scr1.jpeg?raw=true" width=30%  />
+<br />
 
 *My Inventions* originally appeared in six series of the magazine Electronical Experimenter in 1919, written by Nikola Tesla when he was 63 years old. 
 
