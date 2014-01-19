@@ -1,7 +1,7 @@
 # My Inventions, Nikola Tesla's Autobiography
 <img src="https://raw.github.com/EtaoinShrdluc/Tesla-MyInvention/master/Screenshots/Tesla-cover.jpeg?raw=true" width=20%  />
 <img src="https://raw.github.com/EtaoinShrdluc/Tesla-MyInvention/master/Screenshots/Tesla-scr2.jpeg?raw=true" width=20%  />
-<img src="https://raw.github.com/EtaoinShrdluc/Tesla-MyInvention/master/Screenshots/Tesla-scr2.jpeg?raw=true" width=20%  />
+<img src="https://raw.github.com/EtaoinShrdluc/Tesla-MyInvention/master/Screenshots/Tesla-scr1.jpeg?raw=true" width=20%  />
 
 *My Inventions* originally appeared in six series of the magazine Electronical Experimenter in 1919, written by Nikola Tesla when he was 63 years old. 
 
@@ -24,4 +24,4 @@ This repository propose an extended and edited version of the nearly unabridged 
 ## Formats
 
 * Latex: PDF and source.
-* Epub (tested on Kobo Aura, Nexus 7 with Mantana reader): Epub 800x600 (7MiB), Epub High-Res (17MiB) and source.
+* Epub (tested on Kobo Aura, Nexus 7 with Mantano Reader): Epub 800x600 (7MiB), Epub High-Res (17MiB) and source.
