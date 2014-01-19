@@ -2,6 +2,8 @@
 <img src="https://raw.github.com/EtaoinShrdluc/Tesla-MyInvention/master/Screenshots/Tesla-cover.jpeg?raw=true" width=20%  />
 <img src="https://raw.github.com/EtaoinShrdluc/Tesla-MyInvention/master/Screenshots/Tesla-scr2.jpeg?raw=true" width=20%  />
 <img src="https://raw.github.com/EtaoinShrdluc/Tesla-MyInvention/master/Screenshots/Tesla-scr2.jpeg?raw=true" width=20%  />
+
+
 *My Inventions* originally appeared in six series of the magazine Electronical Experimenter in 1919, written by Nikola Tesla when he was 63 years old. 
 
 This repository propose an extended and edited version of the nearly unabridged electronic text available by *[Twenty-First Century Books](http://www.tfcbooks.com/special/my_inventions_index.htm)*. It has been enhanced with the 16 original illustrations --with legends-- of the Electronical Experimenter edition, as well as the 6 forewords signed by the quondam Editor H. Gernsback.
@@ -22,6 +24,6 @@ This repository propose an extended and edited version of the nearly unabridged 
        
 ## Formats
 
-* Latex: <a href="https://github.com/EtaoinShrdluc/Tesla-MyInvention/releases/download/untagged-5cc6ec1c733d64342a14/Tesla.-.My.inventions.pdf">PDF</a> and source.
-* Epub (tested on Kobo Aura, Nexus 7 with Mantano Reader): < a href="https://github.com/EtaoinShrdluc/Tesla-MyInvention/releases/download/untagged-5cc6ec1c733d64342a14/Nikola.Tesla-My.Inventions_800x600.epub">Epub 800x600 (7MiB)</a>, <a href="https://github.com/EtaoinShrdluc/Tesla-MyInvention/releases/download/untagged-5cc6ec1c733d64342a14/Nikola.Tesla-My.Inventions.epub">Epub High-Res (17MiB)</a> and source.
+* Latex: [PDF](https://github.com/EtaoinShrdluc/Tesla-MyInvention/releases/download/untagged-5cc6ec1c733d64342a14/Tesla.-.My.inventions.pdf) and source.
+* Epub (tested on Kobo Aura, Nexus 7 with Mantano Reader):[Epub 800x600 (7MiB)](https://github.com/EtaoinShrdluc/Tesla-MyInvention/releases/download/untagged-5cc6ec1c733d64342a14/Nikola.Tesla-My.Inventions_800x600.epub), [Epub High-Res (17MiB)](https://github.com/EtaoinShrdluc/Tesla-MyInvention/releases/download/untagged-5cc6ec1c733d64342a14/Nikola.Tesla-My.Inventions.epub) and source.
 
