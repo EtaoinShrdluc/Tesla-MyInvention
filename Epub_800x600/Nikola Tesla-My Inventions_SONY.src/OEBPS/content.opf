@@ -6,18 +6,16 @@
     <dc:creator opf:role="aut">Nikola Tesla</dc:creator>
     <dc:language>en-US</dc:language>
     <dc:publisher>Etaoin Shrdluc</dc:publisher>
-    <dc:date opf:event="modification">2014-01-12</dc:date>
+    <dc:date opf:event="modification">2014-01-19</dc:date>
     <dc:description>&lt;div&gt;&lt;p&gt;&lt;em&gt;Nikola Tesla&lt;/em&gt; was a Serbian American inventor, electrical engineer, mechanical engineer, physicist, and futurist best known for his contributions to the design of the modern alternating current (AC) electricity supply system. Tesla is also known for his high-voltage, high-frequency power experiments in New York and Colorado Springs which included patented devices and theoretical work used in the invention of radio communication, for his X-ray experiments, and for his ill-fated attempt at intercontinental wireless transmission in his unfinished Wardenclyffe Tower project.&lt;/p&gt;&lt;p&gt; &lt;em&gt;My Inventions&lt;/em&gt; is Tesla's Autobiography, written at the age of 63 and published in six parts in the journal Electrical Experimenter.&lt;/p&gt;&lt;/div&gt;</dc:description>
     <dc:subject>Biography Memoir</dc:subject>
     <dc:subject>Engineering</dc:subject>
     <dc:subject>Physics</dc:subject>
     <dc:subject>Electrogmagnetism</dc:subject>
     <meta content="0.7.3" name="Sigil version" />
-    <meta name="cover" content="cover.jpeg" />
   </metadata>
   <manifest>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
-    <item href="Images/cover.jpeg" id="cover.jpeg" media-type="image/jpeg" />
     <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
     <item href="Fonts/Linux-Libertine-Display-Capitals.ttf" id="Linux-Libertine-Display-Capitals.ttf" media-type="application/x-font-ttf" />
     <item href="Images/House.png" id="House.png" media-type="image/png" />
@@ -50,6 +48,7 @@
     <item href="Fonts/LinLibertine_RI.ttf" id="LinLibertine_RI.ttf" media-type="application/x-font-ttf" />
     <item href="Fonts/LinLibertine_RB.ttf" id="LinLibertine_RB.ttf" media-type="application/x-font-ttf" />
     <item href="Text/Colophon.xhtml" id="Colophon.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/cover.jpeg" id="cover.jpeg" media-type="image/jpeg" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover.xhtml" />

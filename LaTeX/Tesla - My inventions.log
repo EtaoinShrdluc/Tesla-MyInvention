@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.4.28)  18 JAN 2014 22:58
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.4.28)  19 JAN 2014 15:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -881,6 +881,9 @@ LaTeX Font Info:    Redeclaring math accent \dot on input line 255.
 LaTeX Font Info:    Redeclaring math accent \mathring on input line 256.
 \symUfutm=\mathgroup5
 )
+(/usr/local/texlive/2011/texmf-dist/tex/latex/bbding/bbding.sty
+Package: bbding 1999/04/15 v1.01 Dingbats symbols
+)
 (./packages/MI-style.sty
 (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/02/28 v6.82p Hypertext links for LaTeX
@@ -1426,58 +1429,58 @@ Package biblatex Warning: 'babel' detected but 'csquotes' missing.
 (./Tesla - My inventions.aux)
 \openout1 = `"Tesla - My inventions.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 62.
-LaTeX Font Info:    Try loading font information for FML+futm on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 63.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 63.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 62.
-LaTeX Font Info:    Try loading font information for FMS+futm on input line 62.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 63.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 63.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 62.
-LaTeX Font Info:    Try loading font information for FMX+futm on input line 62.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 63.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 63.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 62.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 63.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Try loading font information for T1+futs on input line 62.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Try loading font information for T1+futs on input line 63.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/fourier/t1futs.fd
 File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
 )
 \AtBeginShipoutBox=\box63
-Package hyperref Info: Link coloring ON on input line 62.
+Package hyperref Info: Link coloring ON on input line 63.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -1489,10 +1492,10 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 62.
-LaTeX Info: Redefining \ref on input line 62.
-LaTeX Info: Redefining \pageref on input line 62.
-LaTeX Info: Redefining \nameref on input line 62.
+LaTeX Info: Redefining \nameref on input line 63.
+LaTeX Info: Redefining \ref on input line 63.
+LaTeX Info: Redefining \pageref on input line 63.
+LaTeX Info: Redefining \nameref on input line 63.
 (./Tesla - My inventions.out) (./Tesla - My inventions.out)
 \@outlinefile=\write6
 \openout6 = `"Tesla - My inventions.out"'.
@@ -1538,7 +1541,7 @@ Package caption Warning: \caption will not be redefined since it's already
 See the caption package documentation for explanation.
 
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 62.
+LaTeX Info: Redefining \microtypecontext on input line 63.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1573,32 +1576,32 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '"Tesla - My inventions".bbl' found.
 
 (./Tesla - My inventions.bbl)
-Package biblatex Info: Reference section=0 on input line 62.
-Package biblatex Info: Reference segment=0 on input line 62.
+Package biblatex Info: Reference section=0 on input line 63.
+Package biblatex Info: Reference segment=0 on input line 63.
 
 <Figures/cover.pdf, id=108, page=1, 642.4pt x 1027.84pt>
 File: Figures/cover.pdf Graphic file (type pdf)
 
 <use Figures/cover.pdf, page 1>
-Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 67.
+Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 68.
 (pdftex.def)             Requested size: 642.39844pt x 1027.8375pt.
 File: Figures/cover.pdf Graphic file (type pdf)
  <use Figures/cover.pdf, page 1>
-Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 67.
+Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 68.
 (pdftex.def)             Requested size: 528.58482pt x 845.73572pt.
 File: Figures/cover.pdf Graphic file (type pdf)
 
 <use Figures/cover.pdf, page 1>
-Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 67.
+Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 68.
 (pdftex.def)             Requested size: 528.58482pt x 845.73572pt.
 File: Figures/cover.pdf Graphic file (type pdf)
  <use Figures/cover.pdf, page 1>
-Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 67.
+Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 68.
 (pdftex.def)             Requested size: 528.58482pt x 845.73572pt.
 File: Figures/cover.pdf Graphic file (type pdf)
 
 <use Figures/cover.pdf, page 1>
-Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 67.
+Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 68.
 (pdftex.def)             Requested size: 528.58482pt x 845.73572pt.
  [1
 
@@ -1608,71 +1611,71 @@ Package pdftex.def Info: Figures/cover.pdf, page1 used on input line 67.
 <Figures/cc-large.png, id=133, 385.44pt x 385.44pt>
 File: Figures/cc-large.png Graphic file (type png)
  <use Figures/cc-large.png>
-Package pdftex.def Info: Figures/cc-large.png used on input line 74.
+Package pdftex.def Info: Figures/cc-large.png used on input line 75.
 (pdftex.def)             Requested size: 28.45274pt x 28.448pt.
 
 <Figures/by-large.png, id=135, 385.44pt x 385.44pt>
 File: Figures/by-large.png Graphic file (type png)
  <use Figures/by-large.png>
-Package pdftex.def Info: Figures/by-large.png used on input line 75.
+Package pdftex.def Info: Figures/by-large.png used on input line 76.
 (pdftex.def)             Requested size: 28.45274pt x 28.448pt.
 
 <Figures/nc-large.png, id=136, 385.44pt x 385.44pt>
 File: Figures/nc-large.png Graphic file (type png)
  <use Figures/nc-large.png>
-Package pdftex.def Info: Figures/nc-large.png used on input line 76.
+Package pdftex.def Info: Figures/nc-large.png used on input line 77.
 (pdftex.def)             Requested size: 28.45274pt x 28.448pt.
 
 <Figures/sa-large.png, id=137, 385.44pt x 385.44pt>
 File: Figures/sa-large.png Graphic file (type png)
  <use Figures/sa-large.png>
-Package pdftex.def Info: Figures/sa-large.png used on input line 77.
+Package pdftex.def Info: Figures/sa-large.png used on input line 78.
 (pdftex.def)             Requested size: 28.45274pt x 28.448pt.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 82.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 83.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 82
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 83
 .
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 82.
+(Font)              scaled to size 11.03998pt on input line 83.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 82.
+(Font)              scaled to size 8.27998pt on input line 83.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 82.
+(Font)              scaled to size 6.43999pt on input line 83.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 82.
+(Font)              scaled to size 11.03998pt on input line 83.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 82.
+(Font)              scaled to size 8.27998pt on input line 83.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 82.
+(Font)              scaled to size 6.43999pt on input line 83.
  [2 <./Figures/cc-large.png> <./Figures/by-large.png> <./Figures/nc-large.png> 
 <./Figures/sa-large.png>]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 100.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 101.
  [3
 
 ] [4
 
 ]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 133.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 134.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 133.
-LaTeX Font Info:    Try loading font information for U+futs on input line 133.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 134.
+LaTeX Font Info:    Try loading font information for U+futs on input line 134.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/fourier/ufuts.fd
 File: ufuts.fd 2004/03/26 Fontinst v1.926 font definitions for U/futs.
 )
 LaTeX Font Info:    Font shape `U/futs/bx/n' in size <17.28> not available
-(Font)              Font shape `U/futs/b/n' tried instead on input line 133.
+(Font)              Font shape `U/futs/b/n' tried instead on input line 134.
 LaTeX Font Info:    Font shape `T1/futs/bx/sc' in size <17.28> not available
-(Font)              Font shape `T1/futs/b/sc' tried instead on input line 133.
+(Font)              Font shape `T1/futs/b/sc' tried instead on input line 134.
 
 (./Tesla - My inventions.toc
 LaTeX Font Info:    Try loading font information for TS1+futs on input line 23.
@@ -1698,24 +1701,24 @@ s/m/n/12 ˆ| |[][]\T1/futs/m/n/12 (-20) America
 
 ]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 147.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 148.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 160.
+(Font)              scaled to size 9.19998pt on input line 161.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 160.
+(Font)              scaled to size 6.99199pt on input line 161.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 160.
+(Font)              scaled to size 5.51999pt on input line 161.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 160.
+(Font)              scaled to size 9.19998pt on input line 161.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 160.
+(Font)              scaled to size 6.99199pt on input line 161.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 160.
+(Font)              scaled to size 5.51999pt on input line 161.
  [7]
 LaTeX Font Info:    Font shape `T1/futs/bx/it' in size <12> not available
-(Font)              Font shape `T1/futs/b/it' tried instead on input line 175.
+(Font)              Font shape `T1/futs/b/it' tried instead on input line 176.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 175.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 176.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -1725,27 +1728,27 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 
 [8]
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 200.
+(Font)              scaled to size 10.07397pt on input line 201.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 200.
+(Font)              scaled to size 7.63599pt on input line 201.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 200.
+(Font)              scaled to size 10.07397pt on input line 201.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 200.
+(Font)              scaled to size 7.63599pt on input line 201.
 
-Underfull \hbox (badness 3199) in paragraph at lines 200--200
+Underfull \hbox (badness 3199) in paragraph at lines 201--201
 []\T1/futs/m/it/10.95 (+20) In his au-to-bi-og-ra-phy, treat-ing mainly on his 
 early youth,
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 200--200
+Underfull \hbox (badness 1102) in paragraph at lines 201--201
 \T1/futs/m/it/10.95 (+20) we ob-tain a good in-sight into the won-der-ful life 
 this man
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--200
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
 
  []
 
@@ -1762,60 +1765,60 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 File: Figures/Tesla-29.png Graphic file (type png)
 
 <use Figures/Tesla-29.png>
-Package pdftex.def Info: Figures/Tesla-29.png used on input line 274.
+Package pdftex.def Info: Figures/Tesla-29.png used on input line 275.
 (pdftex.def)             Requested size: 241.29187pt x 347.79341pt.
 
-Overfull \hbox (2.06311pt too wide) in paragraph at lines 280--300
+Overfull \hbox (2.06311pt too wide) in paragraph at lines 281--301
 \T1/futs/m/n/12 (-20) tended from my very birth
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 280--300
+Underfull \hbox (badness 5985) in paragraph at lines 281--301
 \T1/futs/m/n/12 (+20) for the cler-i-cal pro-fes-
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 280--300
+Underfull \hbox (badness 5260) in paragraph at lines 281--301
 \T1/futs/m/n/12 (+20) sion and this thought
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 280--300
+Underfull \hbox (badness 2781) in paragraph at lines 281--301
 \T1/futs/m/n/12 (+20) the army of the Great
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 280--300
+Underfull \hbox (badness 1242) in paragraph at lines 281--301
 \T1/futs/m/n/12 (+20) Napoleon and, in com-
  []
 
 
-Underfull \hbox (badness 5175) in paragraph at lines 280--300
+Underfull \hbox (badness 5175) in paragraph at lines 281--301
 \T1/futs/m/n/12 (+20) mon with his brother,
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 280--300
+Underfull \hbox (badness 2027) in paragraph at lines 281--301
 \T1/futs/m/n/12 (+20) pro-fes-sor of math-e-mat-
  []
 
 
-Underfull \hbox (badness 2521) in paragraph at lines 280--300
+Underfull \hbox (badness 2521) in paragraph at lines 281--301
 \T1/futs/m/n/12 (+20) ics in a promi-nent in-
  []
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 280--300
+Underfull \hbox (badness 2564) in paragraph at lines 281--301
 \T1/futs/m/n/12 (+20) mil-i-tary ed-u-ca-tion but,
  []
 
 
-Overfull \hbox (9.35649pt too wide) in paragraph at lines 280--300
+Overfull \hbox (9.35649pt too wide) in paragraph at lines 281--301
 \T1/futs/m/n/12 (-20) which vo-ca-tion he achieved
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 280--300
+Underfull \hbox (badness 1590) in paragraph at lines 281--301
 \T1/futs/m/n/12 (+20) and writer and his ser-
  []
 
@@ -1848,17 +1851,17 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 
 [6]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 438.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 439.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 438.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 439.
  <Figures/Tesla-23.png, id=294, 385.44pt x 551.81157pt>
 File: Figures/Tesla-23.png Graphic file (type png)
 
 <use Figures/Tesla-23.png>
-Package pdftex.def Info: Figures/Tesla-23.png used on input line 438.
+Package pdftex.def Info: Figures/Tesla-23.png used on input line 439.
 (pdftex.def)             Requested size: 248.94766pt x 356.39989pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 407--439
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 408--440
 [][] 
  []
 
@@ -1866,10 +1869,10 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 407--439
 File: Figures/Tesla-39.png Graphic file (type png)
 
 <use Figures/Tesla-39.png>
-Package pdftex.def Info: Figures/Tesla-39.png used on input line 473.
+Package pdftex.def Info: Figures/Tesla-39.png used on input line 474.
 (pdftex.def)             Requested size: 248.94766pt x 350.35172pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 441--474
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 442--475
 [][] 
  []
 
@@ -1905,7 +1908,7 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 607--607
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
 
  []
 
@@ -1922,7 +1925,7 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 File: Figures/House.png Graphic file (type png)
 
 <use Figures/House.png>
-Package pdftex.def Info: Figures/House.png used on input line 693.
+Package pdftex.def Info: Figures/House.png used on input line 694.
 (pdftex.def)             Requested size: 287.25pt x 182.85413pt.
 
 
@@ -1956,11 +1959,11 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 File: Figures/Tesla-bulbe.png Graphic file (type png)
 
 <use Figures/Tesla-bulbe.png>
-Package pdftex.def Info: Figures/Tesla-bulbe.png used on input line 813.
+Package pdftex.def Info: Figures/Tesla-bulbe.png used on input line 814.
 (pdftex.def)             Requested size: 497.90117pt x 662.0842pt.
 
 
-LaTeX Warning: Float too large for page by 82.0787pt on input line 815.
+LaTeX Warning: Float too large for page by 82.0787pt on input line 816.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -1990,7 +1993,7 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 937--937
+Underfull \hbox (badness 10000) in paragraph at lines 938--938
 
  []
 
@@ -2007,20 +2010,20 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 File: Figures/Tesla-60.png Graphic file (type png)
 
 <use Figures/Tesla-60.png>
-Package pdftex.def Info: Figures/Tesla-60.png used on input line 1002.
+Package pdftex.def Info: Figures/Tesla-60.png used on input line 1003.
 (pdftex.def)             Requested size: 241.29187pt x 315.8228pt.
 
-Underfull \hbox (badness 2302) in paragraph at lines 1008--1024
+Underfull \hbox (badness 2302) in paragraph at lines 1009--1025
 \T1/futs/m/n/12 (+20) der a more rigid dis-ci-
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 1008--1024
+Underfull \hbox (badness 1831) in paragraph at lines 1009--1025
 \T1/futs/m/n/12 (+20) ity and de-li-ciously pre-
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 1008--1024
+Underfull \hbox (badness 1057) in paragraph at lines 1009--1025
 \T1/futs/m/n/12 (+20) tity by a thou-sand per-
  []
 
@@ -2048,30 +2051,30 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 File: Figures/IndMotor.png Graphic file (type png)
 
 <use Figures/IndMotor.png>
-Package pdftex.def Info: Figures/IndMotor.png used on input line 1111.
+Package pdftex.def Info: Figures/IndMotor.png used on input line 1112.
 (pdftex.def)             Requested size: 241.29187pt x 194.10004pt.
 
-Underfull \hbox (badness 1796) in paragraph at lines 1115--1128
+Underfull \hbox (badness 1796) in paragraph at lines 1116--1129
 []\T1/futs/m/n/12 (+20) subjects and ge-om-e-try;
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 1115--1128
+Underfull \hbox (badness 1584) in paragraph at lines 1116--1129
 \T1/futs/m/n/12 (+20) the chair of the-o-ret-i-cal
  []
 
 
-Overfull \hbox (1.18909pt too wide) in paragraph at lines 1115--1128
+Overfull \hbox (1.18909pt too wide) in paragraph at lines 1116--1129
 \T1/futs/m/n/12 (-20) and ex-per-i-men-tal physics,
  []
 
 
-Overfull \hbox (8.87053pt too wide) in paragraph at lines 1115--1128
+Overfull \hbox (8.87053pt too wide) in paragraph at lines 1116--1129
 \T1/futs/m/n/12 (-20) cial-ized in dif-fer-en-tial equa-
  []
 
 
-Underfull \hbox (badness 3492) in paragraph at lines 1115--1128
+Underfull \hbox (badness 3492) in paragraph at lines 1116--1129
 \T1/futs/m/n/12 (+20) room, giv-ing me prob-
  []
 
@@ -2082,22 +2085,22 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [26 <./Figures/IndMotor.png (PNG copy)>]
-Underfull \hbox (badness 1824) in paragraph at lines 1149--1152
+Underfull \hbox (badness 1824) in paragraph at lines 1150--1153
 \T1/futs/m/n/12 (+20) I was right and un-der-
  []
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 1153--1159
+Underfull \hbox (badness 7221) in paragraph at lines 1154--1160
 \T1/futs/m/n/12 (+20) tur-ing in my mind a
  []
 
 
-Underfull \hbox (badness 4132) in paragraph at lines 1153--1159
+Underfull \hbox (badness 4132) in paragraph at lines 1154--1160
 \T1/futs/m/n/12 (+20) direct-current ma-chine,
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 1153--1159
+Underfull \hbox (badness 2961) in paragraph at lines 1154--1160
 \T1/futs/m/n/12 (+20) Then I would imag-ine
  []
 
@@ -2115,6 +2118,15 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [28]
+LaTeX Font Info:    Try loading font information for U+ding on input line 1215.
+
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/bbding/Uding.fd
+File: Uding.fd 1996/02/01 v1.0 BBding font definitions
+)
+
+LaTeX Font Warning: Font shape `U/ding/m/it' undefined
+(Font)              using `U/ding/m/n' instead on input line 1215.
+
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
  Make it at least 14.49998pt.
@@ -2129,18 +2141,18 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [30]
-Underfull \hbox (badness 10000) in paragraph at lines 1277--1277
+Underfull \hbox (badness 10000) in paragraph at lines 1278--1278
 
  []
 
 [31
 
-] <Figures/OscillationTransformer.png, id=422, 662.475pt x 846.91406pt>
+] <Figures/OscillationTransformer.png, id=426, 662.475pt x 846.91406pt>
 File: Figures/OscillationTransformer.png Graphic file (type png)
 
 <use Figures/OscillationTransformer.png>
 Package pdftex.def Info: Figures/OscillationTransformer.png used on input line 
-1332.
+1333.
 (pdftex.def)             Requested size: 241.29187pt x 308.46846pt.
 
 
@@ -2150,63 +2162,63 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [32]
-Underfull \hbox (badness 7151) in paragraph at lines 1336--1348
+Underfull \hbox (badness 7151) in paragraph at lines 1337--1349
 []\T1/futs/m/n/12 (+20) few months I had to
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 1336--1348
+Underfull \hbox (badness 2181) in paragraph at lines 1337--1349
 \T1/futs/m/n/12 (+20) travel from one to an-
  []
 
 
-Underfull \hbox (badness 4940) in paragraph at lines 1336--1348
+Underfull \hbox (badness 4940) in paragraph at lines 1337--1349
 \T1/futs/m/n/12 (+20) pany, Mr. Rau, a plan
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 1336--1348
+Underfull \hbox (badness 2799) in paragraph at lines 1337--1349
 \T1/futs/m/n/12 (+20) for im-prov-ing their dy-
  []
 
 
-Underfull \hbox (badness 5050) in paragraph at lines 1336--1348
+Underfull \hbox (badness 5050) in paragraph at lines 1337--1349
 \T1/futs/m/n/12 (+20) namos and was given
  []
 
 
-Underfull \hbox (badness 4266) in paragraph at lines 1336--1348
+Underfull \hbox (badness 4266) in paragraph at lines 1337--1349
 \T1/futs/m/n/12 (+20) the de-lighted di-rec-tors
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 1336--1348
+Underfull \hbox (badness 1917) in paragraph at lines 1337--1349
 \T1/futs/m/n/12 (+20) ac-corded me the priv-i-
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 1336--1348
+Underfull \hbox (badness 1917) in paragraph at lines 1337--1349
 \T1/futs/m/n/12 (+20) matic reg-u-la-tors which
  []
 
 
-Overfull \hbox (6.6022pt too wide) in paragraph at lines 1336--1348
+Overfull \hbox (6.6022pt too wide) in paragraph at lines 1337--1349
 \T1/futs/m/n/12 (-20) were much de-sired. Shortly
  []
 
 
-Underfull \hbox (badness 3724) in paragraph at lines 1336--1348
+Underfull \hbox (badness 3724) in paragraph at lines 1337--1349
 \T1/futs/m/n/12 (+20) a large part of a wall
  []
 
 
-Underfull \hbox (badness 3158) in paragraph at lines 1336--1348
+Underfull \hbox (badness 3158) in paragraph at lines 1337--1349
 \T1/futs/m/n/12 (+20) was blown out thru a
  []
 
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 1350.
+(hyperref)                be the same. Added a new anchor on input line 1351.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -2215,7 +2227,7 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [33 <./Figures/OscillationTransformer.png (PNG copy)>]
-<Figures/Sparks.png, id=432, 621.82312pt x 761.84625pt>
+<Figures/Sparks.png, id=436, 621.82312pt x 761.84625pt>
 File: Figures/Sparks.png Graphic file (type png)
 
 <use Figures/Sparks.png>
@@ -2313,7 +2325,7 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[37] <Figures/MechA.png, id=451, 758.08218pt x 861.9703pt>
+[37] <Figures/MechA.png, id=455, 758.08218pt x 861.9703pt>
 File: Figures/MechA.png Graphic file (type png)
 
 <use Figures/MechA.png>
@@ -2352,7 +2364,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1564--1564
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 1590.
 
-<Figures/Tower.png, id=470, 524.71031pt x 874.76813pt>
+<Figures/Tower.png, id=474, 524.71031pt x 874.76813pt>
 File: Figures/Tower.png Graphic file (type png)
  <use Figures/Tower.png>
 Package pdftex.def Info: Figures/Tower.png used on input line 1620.
@@ -2385,15 +2397,15 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[45] <Figures/TowerIsland.png, id=487, 1135.24126pt x 1535.7375pt>
+[45] <Figures/TowerIsland.png, id=491, 1135.24126pt x 1535.7375pt>
 File: Figures/TowerIsland.png Graphic file (type png)
 
 <use Figures/TowerIsland.png>
-Package pdftex.def Info: Figures/TowerIsland.png used on input line 1728.
+Package pdftex.def Info: Figures/TowerIsland.png used on input line 1725.
 (pdftex.def)             Requested size: 497.90117pt x 673.54729pt.
 
 
-LaTeX Warning: Float too large for page by 79.94179pt on input line 1730.
+LaTeX Warning: Float too large for page by 79.94179pt on input line 1727.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -2444,13 +2456,13 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [52]
-Underfull \hbox (badness 10000) in paragraph at lines 1924--1924
+Underfull \hbox (badness 10000) in paragraph at lines 1922--1922
 
  []
 
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 1933.
+(hyperref)                be the same. Added a new anchor on input line 1931.
 
 [53
 
@@ -2461,11 +2473,11 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[54] <Figures/TelBoat.png, id=542, 724.95844pt x 393.72093pt>
+[54] <Figures/TelBoat.png, id=546, 724.95844pt x 393.72093pt>
 File: Figures/TelBoat.png Graphic file (type png)
 
 <use Figures/TelBoat.png>
-Package pdftex.def Info: Figures/TelBoat.png used on input line 1986.
+Package pdftex.def Info: Figures/TelBoat.png used on input line 1984.
 (pdftex.def)             Requested size: 287.25pt x 156.00769pt.
 
 Underfull \vbox (badness 5726) has occurred while \output is active []
@@ -2491,15 +2503,15 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[57] <Figures/TelAer.png, id=555, 1148.79187pt x 1579.40062pt>
+[57] <Figures/TelAer.png, id=559, 1148.79187pt x 1579.40062pt>
 File: Figures/TelAer.png Graphic file (type png)
 
 <use Figures/TelAer.png>
-Package pdftex.def Info: Figures/TelAer.png used on input line 2098.
+Package pdftex.def Info: Figures/TelAer.png used on input line 2095.
 (pdftex.def)             Requested size: 497.90117pt x 684.52736pt.
 
 
-LaTeX Warning: Float too large for page by 90.92186pt on input line 2100.
+LaTeX Warning: Float too large for page by 90.92186pt on input line 2097.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -2545,11 +2557,11 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[63] <Figures/Tesla-Younger.png, id=581, 624.83438pt x 759.58781pt>
+[63] <Figures/Tesla-Younger.png, id=585, 624.83438pt x 759.58781pt>
 File: Figures/Tesla-Younger.png Graphic file (type png)
 
 <use Figures/Tesla-Younger.png>
-Package pdftex.def Info: Figures/Tesla-Younger.png used on input line 2298.
+Package pdftex.def Info: Figures/Tesla-Younger.png used on input line 2295.
 (pdftex.def)             Requested size: 241.29187pt x 293.32887pt.
 
 
@@ -2559,27 +2571,27 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [64]
-Underfull \hbox (badness 3792) in paragraph at lines 2302--2307
+Underfull \hbox (badness 3792) in paragraph at lines 2299--2304
 \T1/futs/m/n/12 (+20) i-fied as "cos-mic," and
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 2308--2327
+Underfull \hbox (badness 1286) in paragraph at lines 2305--2324
 \T1/futs/m/n/12 (+20) nal in-flu-ences. This re-
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 2308--2327
+Underfull \hbox (badness 2717) in paragraph at lines 2305--2324
 \T1/futs/m/n/12 (+20) sults in like-ness of re-
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 2308--2327
+Underfull \hbox (badness 2608) in paragraph at lines 2305--2324
 \T1/futs/m/n/12 (+20) are based. We are au-
  []
 
 
-Overfull \hbox (2.27968pt too wide) in paragraph at lines 2308--2327
+Overfull \hbox (2.27968pt too wide) in paragraph at lines 2305--2324
 \T1/futs/m/n/12 (-20) tomata en-tirely con-trolled
  []
 
@@ -2616,42 +2628,48 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 \tf@toc=\write7
 \openout7 = `"Tesla - My inventions.toc"'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2434.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2434.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2431.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2431.
  (./Tesla - My inventions.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2434.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2434.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2431.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2431.
 
 Package rerunfilecheck Info: File `"Tesla - My inventions".out' has not changed
 .
-(rerunfilecheck)             Checksum: CB97BFB721ECDA44060F51FB0DD180BE;2212.
+(rerunfilecheck)             Checksum: 4AFD7AF6B047F800DCB34608619233C5;2212.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package logreq Info: Writing requests to '"Tesla - My inventions".run.xml'.
 \openout1 = `"Tesla - My inventions.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29695 strings out of 494996
- 420431 string characters out of 3179584
- 889273 words of memory out of 3000000
- 31677 multiletter control sequences out of 15000+200000
- 254786 words of font info for 666 fonts, out of 3000000 for 9000
+ 29885 strings out of 494996
+ 423043 string characters out of 3179584
+ 890461 words of memory out of 3000000
+ 31821 multiletter control sequences out of 15000+200000
+ 256566 words of font info for 693 fonts, out of 3000000 for 9000
  36 hyphenation exceptions out of 8191
- 55i,18n,92p,884b,1748s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
-exlive/2011/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/tex
-live/2011/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/texl
-ive/2011/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/tex
-live/2011/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/20
-11/texmf-dist/fonts/type1/adobe/utopia/putbi8a.pfb></usr/local/texlive/2011/tex
-mf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2011/texmf-dist
-/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/
-type1/adobe/utopia/putri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/
-public/cm-super/sftt1000.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pu
-blic/cm-super/sftt1200.pfb>
-Output written on "Tesla - My inventions.pdf" (77 pages, 16810454 bytes).
+ 55i,18n,92p,884b,1808s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/hopf/
+.texlive2011/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.600pk> </home/hop
+f/.texlive2011/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.720pk>{/usr/loc
+al/texlive/2011/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local
+/texlive/2011/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/
+texlive/2011/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/local
+/texlive/2011/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texliv
+e/2011/texmf-dist/fonts/type1/adobe/utopia/putbi8a.pfb></usr/local/texlive/2011
+/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2011/texmf-
+dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2011/texmf-dist/fo
+nts/type1/adobe/utopia/putri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/ty
+pe1/public/cm-super/sftt1000.pfb></usr/local/texlive/2011/texmf-dist/fonts/type
+1/public/cm-super/sftt1200.pfb>
+Output written on "Tesla - My inventions.pdf" (77 pages, 16812496 bytes).
 PDF statistics:
- 672 PDF objects out of 1000 (max. 8388607)
- 514 compressed objects within 6 object streams
- 124 named destinations out of 1000 (max. 500000)
+ 684 PDF objects out of 1000 (max. 8388607)
+ 524 compressed objects within 6 object streams
+ 126 named destinations out of 1000 (max. 500000)
  86895 words of extra memory for PDF output out of 89155 (max. 10000000)
 

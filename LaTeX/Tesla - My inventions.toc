@@ -16,7 +16,7 @@
 \defcounter {refsection}{0}\relax 
 \relax \fontsize {12}{14.5}\selectfont \abovedisplayskip 12\p@ plus3\p@ minus7\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{The Discovery of the Tesla Coil and Transformer}{31}{poemline.2.7}
+\contentsline {section}{The Discovery of the Tesla Coil and Transformer}{31}{poemline.2.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{The First Induction Motor is Built}{33}{section*.1}
 \defcounter {refsection}{0}\relax 
