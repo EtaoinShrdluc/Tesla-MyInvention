@@ -22,6 +22,6 @@ This repository propose an extended and edited version of the nearly unabridged 
        
 ## Formats
 
-* Latex: PDF and source.
-* Epub (tested on Kobo Aura, Nexus 7 with Mantano Reader): Epub 800x600 (7MiB), Epub High-Res (17MiB) and source.
+* Latex: <a href="https://github.com/EtaoinShrdluc/Tesla-MyInvention/releases/download/untagged-5cc6ec1c733d64342a14/Tesla.-.My.inventions.pdf">PDF</a> and source.
+* Epub (tested on Kobo Aura, Nexus 7 with Mantano Reader): < a href="https://github.com/EtaoinShrdluc/Tesla-MyInvention/releases/download/untagged-5cc6ec1c733d64342a14/Nikola.Tesla-My.Inventions_800x600.epub">Epub 800x600 (7MiB)</a>, <a href="https://github.com/EtaoinShrdluc/Tesla-MyInvention/releases/download/untagged-5cc6ec1c733d64342a14/Nikola.Tesla-My.Inventions.epub">Epub High-Res (17MiB)</a> and source.
 
